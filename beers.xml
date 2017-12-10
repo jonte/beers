@@ -2824,4 +2824,354 @@ The final volume in the primary is 3.820 L.</DIRECTIONS>
   <PRIMING_SUGAR_EQUIV>1.00000000</PRIMING_SUGAR_EQUIV>
   <KEG_PRIMING_FACTOR>1.00000000</KEG_PRIMING_FACTOR>
  </RECIPE>
+ <RECIPE>
+  <NAME>GBG Beer Week </NAME>
+  <VERSION>1</VERSION>
+  <TYPE>All Grain</TYPE>
+  <STYLE>
+   <NAME>American IPA</NAME>
+   <VERSION>1</VERSION>
+   <CATEGORY>IPA</CATEGORY>
+   <CATEGORY_NUMBER>21</CATEGORY_NUMBER>
+   <STYLE_LETTER>A</STYLE_LETTER>
+   <STYLE_GUIDE>BJCP 2015</STYLE_GUIDE>
+   <TYPE>Ale</TYPE>
+   <OG_MIN>1.05600000</OG_MIN>
+   <OG_MAX>1.07000000</OG_MAX>
+   <FG_MIN>1.00800000</FG_MIN>
+   <FG_MAX>1.01400000</FG_MAX>
+   <IBU_MIN>40.00000000</IBU_MIN>
+   <IBU_MAX>70.00000000</IBU_MAX>
+   <COLOR_MIN>11.82000000</COLOR_MIN>
+   <COLOR_MAX>27.58000000</COLOR_MAX>
+   <ABV_MIN>5.50000000</ABV_MIN>
+   <ABV_MAX>7.50000000</ABV_MAX>
+   <CARB_MIN>2.40000000</CARB_MIN>
+   <CARB_MAX>2.90000000</CARB_MAX>
+   <NOTES>A decidedly hoppy and bitter, moderately strong American pale ale, showcasing modern American or New World hop varieties. The balance is hop-forward, with a clean fermentation profile, dryish finish, and clean, supporting malt allowing a creative range of hop character to shine through. The IPA category is for modern American IPAs and their derivatives. This does not imply that English IPAs aren’t proper IPAs or that there isn’t a relationship between them. This is simply a method of grouping similar styles for competition purposes. English IPAs are grouped with other English-derived beers, and the stronger Double IPA is grouped with stronger American beers. The term “IPA” is intentionally not spelled out as “India Pale Ale” since none of these beers historically went to India, and many aren’t pale. However, the term IPA has come to be a balance-defined style in modern craft beer. History: The first modern American craft beer example is generally believed to be Anchor Liberty Ale, first brewed in 1975 and using whole Cascade hops; the style has pushed beyond that original beer, which now tastes more like an American Pale Ale in comparison. American-made IPAs from earlier eras were not unknown (particularly the well-regarded Ballantine’s IPA, an oak-aged beer using an old English recipe). This style is based on the modern craft beer examples. Style Comparison: Stronger and more highly hopped than an American Pale Ale. Compared to an English IPA, has less of the “English” character from malt, hops, and yeast (less caramel, bread, and toast; more American/New World hops than English; less yeast-derived esters), less body, and often has a more hoppy balance and is slightly stronger than most examples. Less alcohol than a Double IPA, but with a similar balance.</NOTES>
+   <PROFILE>Aroma: A prominent to intense hop aroma featuring one or more characteristics of American or New World hops, such as citrus, floral, pine, resinous, spicy, tropical fruit, stone fruit, berry, melon, etc. Many versions are dry hopped and can have an additional fresh hop aroma; this is desirable but not required. Grassiness should be minimal, if present. A low to medium-low clean, grainy-malty aroma may be found in the background. Fruitiness from yeast may also be detected in some versions, although a neutral fermentation character is also acceptable. A restrained alcohol note may be present, but this character should be minimal at best. Any American or New World hop character is acceptable; new hop varieties continue to be released and should not constrain this style. Appearance: Color ranges from medium gold to light reddish-amber. Should be clear, although unfiltered dry-hopped versions may be a bit hazy. Medium-sized, white to off-white head with good persistence. Flavor: Hop flavor is medium to very high, and should reflect an American or New World hop character, such as citrus, floral, pine, resinous, spicy, tropical fruit, stone fruit, berry, melon, etc. Medium-high to very high hop bitterness. Malt flavor should be low to medium-low, and is generally clean and grainy-malty although some light caramel or toasty flavors are acceptable. Low yeast-derived fruitiness is acceptable but not required. Dry to medium-dry finish; residual sweetness should be low to none. The bitterness and hop flavor may linger into the aftertaste but should not be harsh. A very light, clean alcohol flavor may be noted in stronger versions. May be slightly sulfury, but most examples do not exhibit this character. Mouthfeel: Medium-light to medium body, with a smooth texture. Medium to medium-high carbonation. No harsh hop-derived astringency. Very light, smooth alcohol warming not a fault if it does not intrude into overall balance. Comments: A modern American craft beer interpretation of the historical English style, brewed using American ingredients and attitude. The basis for many modern variations, including the stronger Double IPA as well as IPAs with various other ingredients. Those other IPAs should generally be entered in the Specialty IPA style. Oak is inappropriate in this style; if noticeably oaked, enter in wood-aged category.</PROFILE>
+   <INGREDIENTS>Pale ale or 2-row brewers malt as the base, American or New World hops, American or English yeast with a clean or slightly fruity profile. Generally all-malt, but mashed at lower temperatures for high attenuation. Sugar additions to aid attenuation are acceptable. Restrained use of crystal malts, if any, as high amounts can lead to a sweet finish and clash with the hop character.</INGREDIENTS>
+   <EXAMPLES>Alpine Duet, Bell’s Two-Hearted Ale, Fat Heads Head Hunter IPA, Firestone Walker Union Jack, Lagunitas IPA, Russian River Blind Pig IPA, Stone IPA</EXAMPLES>
+  </STYLE>
+  <BREWER>Jonatan</BREWER>
+  <BATCH_SIZE>19.00000000</BATCH_SIZE>
+  <BOIL_SIZE>20.00000000</BOIL_SIZE>
+  <BOIL_TIME>60.00000000</BOIL_TIME>
+  <EFFICIENCY>72.00000000</EFFICIENCY>
+  <HOPS>
+   <HOP>
+    <NAME>Citra</NAME>
+    <VERSION>1</VERSION>
+    <ALPHA>12.00000000</ALPHA>
+    <AMOUNT>0.04000000</AMOUNT>
+    <USE>Boil</USE>
+    <TIME>30.00000000</TIME>
+    <NOTES>Special aroma hops released in 2007.  Imparts high alpha/oil content but low cohumulone.
+Aroma: Adds interesting citrus and tropical fruit character to the beer.  
+Substitutes: Unknown</NOTES>
+    <TYPE>Both</TYPE>
+    <FORM>Pellet</FORM>
+    <BETA>4.00000000</BETA>
+    <HSI>25.00000000</HSI>
+    <ORIGIN>U.S.</ORIGIN>
+    <SUBSTITUTES></SUBSTITUTES>
+    <HUMULENE>0.00000000</HUMULENE>
+    <CARYOPHYLLENE>0.00000000</CARYOPHYLLENE>
+    <COHUMULONE>0.00000000</COHUMULONE>
+    <MYRCENE>0.00000000</MYRCENE>
+   </HOP>
+   <HOP>
+    <NAME>Mosaic (HBC 369)</NAME>
+    <VERSION>1</VERSION>
+    <ALPHA>12.25000000</ALPHA>
+    <AMOUNT>0.04000000</AMOUNT>
+    <USE>Boil</USE>
+    <TIME>30.00000000</TIME>
+    <NOTES>Available in quantity for the first time after 2012 harvest. Still known to many as HBC 369. A daughter of Simcoe crossed with a Nugget derived male. An excellent aroma variety.&#xd;
+Used for: Ales, IPA, Experimental Ales&#xd;
+Aroma: Rich in mango, lemon, citrus, pine, and notably, blueberry.&#xd;
+Substitutes: Unknown&#xd;
+Storage: Good (25% AA after 6 months at 20 C)&#xd;
+11-13.5% AA / 3.2-3.9% Beta</NOTES>
+    <TYPE>Both</TYPE>
+    <FORM>Pellet</FORM>
+    <BETA>3.50000000</BETA>
+    <HSI>25.00000000</HSI>
+    <ORIGIN>U.S.</ORIGIN>
+    <SUBSTITUTES></SUBSTITUTES>
+    <HUMULENE>0.00000000</HUMULENE>
+    <CARYOPHYLLENE>0.00000000</CARYOPHYLLENE>
+    <COHUMULONE>0.00000000</COHUMULONE>
+    <MYRCENE>0.00000000</MYRCENE>
+   </HOP>
+   <HOP>
+    <NAME>Nelson Sauvin</NAME>
+    <VERSION>1</VERSION>
+    <ALPHA>12.00000000</ALPHA>
+    <AMOUNT>0.04000000</AMOUNT>
+    <USE>Boil</USE>
+    <TIME>30.00000000</TIME>
+    <NOTES>Triploid variety bred from "Smoothcone" released in 2000.  Oil profile said to taste like "fresh crushed gooseberries" similar to Sauvignon Blanc, giving it its name.  Very fruity, citrusy - use in moderation.  &#xd;
+Used for: Pale ale, Super Premiums.  &#xd;
+Substitutes: None</NOTES>
+    <TYPE>Bittering</TYPE>
+    <FORM>Pellet</FORM>
+    <BETA>7.00000000</BETA>
+    <HSI>20.00000000</HSI>
+    <ORIGIN>New Zealand</ORIGIN>
+    <SUBSTITUTES></SUBSTITUTES>
+    <HUMULENE>0.00000000</HUMULENE>
+    <CARYOPHYLLENE>0.00000000</CARYOPHYLLENE>
+    <COHUMULONE>0.00000000</COHUMULONE>
+    <MYRCENE>0.00000000</MYRCENE>
+   </HOP>
+   <HOP>
+    <NAME>Citra</NAME>
+    <VERSION>1</VERSION>
+    <ALPHA>12.00000000</ALPHA>
+    <AMOUNT>0.06000000</AMOUNT>
+    <USE>Dry Hop</USE>
+    <TIME>4320.00000000</TIME>
+    <NOTES>Special aroma hops released in 2007.  Imparts high alpha/oil content but low cohumulone.&#xd;
+Aroma: Adds interesting citrus and tropical fruit character to the beer.  &#xd;
+Substitutes: Unknown</NOTES>
+    <TYPE>Both</TYPE>
+    <FORM>Pellet</FORM>
+    <BETA>4.00000000</BETA>
+    <HSI>25.00000000</HSI>
+    <ORIGIN>U.S.</ORIGIN>
+    <SUBSTITUTES></SUBSTITUTES>
+    <HUMULENE>0.00000000</HUMULENE>
+    <CARYOPHYLLENE>0.00000000</CARYOPHYLLENE>
+    <COHUMULONE>0.00000000</COHUMULONE>
+    <MYRCENE>0.00000000</MYRCENE>
+   </HOP>
+   <HOP>
+    <NAME>Mosaic (HBC 369)</NAME>
+    <VERSION>1</VERSION>
+    <ALPHA>12.25000000</ALPHA>
+    <AMOUNT>0.06000000</AMOUNT>
+    <USE>Dry Hop</USE>
+    <TIME>4320.00000000</TIME>
+    <NOTES>Available in quantity for the first time after 2012 harvest. Still known to many as HBC 369. A daughter of Simcoe crossed with a Nugget derived male. An excellent aroma variety.&#xd;
+Used for: Ales, IPA, Experimental Ales&#xd;
+Aroma: Rich in mango, lemon, citrus, pine, and notably, blueberry.&#xd;
+Substitutes: Unknown&#xd;
+Storage: Good (25% AA after 6 months at 20 C)&#xd;
+11-13.5% AA / 3.2-3.9% Beta</NOTES>
+    <TYPE>Both</TYPE>
+    <FORM>Pellet</FORM>
+    <BETA>3.50000000</BETA>
+    <HSI>25.00000000</HSI>
+    <ORIGIN>U.S.</ORIGIN>
+    <SUBSTITUTES></SUBSTITUTES>
+    <HUMULENE>0.00000000</HUMULENE>
+    <CARYOPHYLLENE>0.00000000</CARYOPHYLLENE>
+    <COHUMULONE>0.00000000</COHUMULONE>
+    <MYRCENE>0.00000000</MYRCENE>
+   </HOP>
+   <HOP>
+    <NAME>Nelson Sauvin</NAME>
+    <VERSION>1</VERSION>
+    <ALPHA>12.00000000</ALPHA>
+    <AMOUNT>0.06000000</AMOUNT>
+    <USE>Dry Hop</USE>
+    <TIME>4320.00000000</TIME>
+    <NOTES>Triploid variety bred from "Smoothcone" released in 2000.  Oil profile said to taste like "fresh crushed gooseberries" similar to Sauvignon Blanc, giving it its name.  Very fruity, citrusy - use in moderation.  &#xd;
+Used for: Pale ale, Super Premiums.  &#xd;
+Substitutes: None</NOTES>
+    <TYPE>Bittering</TYPE>
+    <FORM>Pellet</FORM>
+    <BETA>7.00000000</BETA>
+    <HSI>20.00000000</HSI>
+    <ORIGIN>New Zealand</ORIGIN>
+    <SUBSTITUTES></SUBSTITUTES>
+    <HUMULENE>0.00000000</HUMULENE>
+    <CARYOPHYLLENE>0.00000000</CARYOPHYLLENE>
+    <COHUMULONE>0.00000000</COHUMULONE>
+    <MYRCENE>0.00000000</MYRCENE>
+   </HOP>
+  </HOPS>
+  <FERMENTABLES>
+   <FERMENTABLE>
+    <NAME>Oats, Flaked</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>Grain</TYPE>
+    <AMOUNT>0.49999970</AMOUNT>
+    <YIELD>80.00000000</YIELD>
+    <COLOR>1.97000000</COLOR>
+    <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+    <ORIGIN>US</ORIGIN>
+    <SUPPLIER></SUPPLIER>
+    <NOTES>Adds body, mouth feel and head retention to the beer&#xd;
+Used in oatmeal stouts and porters&#xd;
+Adds substantial protein haze to light beers&#xd;
+Protein rest recommended unless flakes are pregelatinized</NOTES>
+    <COARSE_FINE_DIFF>1.50000000</COARSE_FINE_DIFF>
+    <MOISTURE>9.00000000</MOISTURE>
+    <DIASTATIC_POWER>0.00000000</DIASTATIC_POWER>
+    <PROTEIN>9.00000000</PROTEIN>
+    <MAX_IN_BATCH>30.00000000</MAX_IN_BATCH>
+    <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+    <IS_MASHED>FALSE</IS_MASHED>
+    <IBU_GAL_PER_LB>0.00000000</IBU_GAL_PER_LB>
+   </FERMENTABLE>
+   <FERMENTABLE>
+    <NAME>Wheat, Torrified</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>Grain</TYPE>
+    <AMOUNT>0.49999970</AMOUNT>
+    <YIELD>79.00000000</YIELD>
+    <COLOR>3.34900000</COLOR>
+    <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+    <ORIGIN>US</ORIGIN>
+    <SUPPLIER></SUPPLIER>
+    <NOTES>Unmodified wheat that has been "popped" to open the kernels&#xd;
+Used primarily in place of raw wheat when making Belgian White and Wit&#xd;
+Faster conversion and higher yield than raw wheat&#xd;
+Protein rest recommended when mashing</NOTES>
+    <COARSE_FINE_DIFF>1.50000000</COARSE_FINE_DIFF>
+    <MOISTURE>9.00000000</MOISTURE>
+    <DIASTATIC_POWER>0.00000000</DIASTATIC_POWER>
+    <PROTEIN>16.00000000</PROTEIN>
+    <MAX_IN_BATCH>40.00000000</MAX_IN_BATCH>
+    <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+    <IS_MASHED>FALSE</IS_MASHED>
+    <IBU_GAL_PER_LB>0.00000000</IBU_GAL_PER_LB>
+   </FERMENTABLE>
+   <FERMENTABLE>
+    <NAME>Simpsons - Maris Otter</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>Grain</TYPE>
+    <AMOUNT>5.00000000</AMOUNT>
+    <YIELD>81.00000000</YIELD>
+    <COLOR>3.00000000</COLOR>
+    <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+    <ORIGIN>UK</ORIGIN>
+    <SUPPLIER></SUPPLIER>
+    <NOTES></NOTES>
+    <COARSE_FINE_DIFF>1.00000000</COARSE_FINE_DIFF>
+    <MOISTURE>3.00000000</MOISTURE>
+    <DIASTATIC_POWER>120.00000000</DIASTATIC_POWER>
+    <PROTEIN>10.00000000</PROTEIN>
+    <MAX_IN_BATCH>100.00000000</MAX_IN_BATCH>
+    <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+    <IS_MASHED>TRUE</IS_MASHED>
+    <IBU_GAL_PER_LB>0.00000000</IBU_GAL_PER_LB>
+   </FERMENTABLE>
+  </FERMENTABLES>
+  <MISCS/>
+  <YEASTS>
+   <YEAST>
+    <NAME>Safale S-04</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>Ale</TYPE>
+    <FORM>Dry</FORM>
+    <AMOUNT>0.01100000</AMOUNT>
+    <AMOUNT_IS_WEIGHT>TRUE</AMOUNT_IS_WEIGHT>
+    <LABORATORY>Safale</LABORATORY>
+    <PRODUCT_ID></PRODUCT_ID>
+    <MIN_TEMPERATURE>15.00000000</MIN_TEMPERATURE>
+    <MAX_TEMPERATURE>24.00000000</MAX_TEMPERATURE>
+    <FLOCCULATION>Low</FLOCCULATION>
+    <ATTENUATION>75.00000000</ATTENUATION>
+    <NOTES></NOTES>
+    <BEST_FOR></BEST_FOR>
+    <TIMES_CULTURED>0</TIMES_CULTURED>
+    <MAX_REUSE>0</MAX_REUSE>
+    <ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
+   </YEAST>
+   <YEAST>
+    <NAME>Safale S-04</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>Ale</TYPE>
+    <FORM>Dry</FORM>
+    <AMOUNT>0.01100000</AMOUNT>
+    <AMOUNT_IS_WEIGHT>TRUE</AMOUNT_IS_WEIGHT>
+    <LABORATORY>Safale</LABORATORY>
+    <PRODUCT_ID></PRODUCT_ID>
+    <MIN_TEMPERATURE>15.00000000</MIN_TEMPERATURE>
+    <MAX_TEMPERATURE>24.00000000</MAX_TEMPERATURE>
+    <FLOCCULATION>Low</FLOCCULATION>
+    <ATTENUATION>75.00000000</ATTENUATION>
+    <NOTES></NOTES>
+    <BEST_FOR></BEST_FOR>
+    <TIMES_CULTURED>0</TIMES_CULTURED>
+    <MAX_REUSE>0</MAX_REUSE>
+    <ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
+   </YEAST>
+  </YEASTS>
+  <WATERS/>
+  <MASH>
+   <NAME>Single Infusion, Medium Body, Batch Sparge</NAME>
+   <VERSION>1</VERSION>
+   <GRAIN_TEMP>22.22222220</GRAIN_TEMP>
+   <MASH_STEPS>
+    <MASH_STEP>
+     <NAME>Mash In</NAME>
+     <VERSION>1</VERSION>
+     <TYPE>Infusion</TYPE>
+     <INFUSE_AMOUNT>26.00000000</INFUSE_AMOUNT>
+     <STEP_TEMP>67.00000000</STEP_TEMP>
+     <STEP_TIME>60.00000000</STEP_TIME>
+     <RAMP_TIME>2.00000000</RAMP_TIME>
+     <END_TEMP>67.00000000</END_TEMP>
+     <INFUSE_TEMP>0.00000000</INFUSE_TEMP>
+     <DECOCTION_AMOUNT>0.00000000</DECOCTION_AMOUNT>
+    </MASH_STEP>
+   </MASH_STEPS>
+   <NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</NOTES>
+   <TUN_TEMP>22.22222220</TUN_TEMP>
+   <SPARGE_TEMP>75.55555560</SPARGE_TEMP>
+   <PH>5.40000000</PH>
+   <TUN_WEIGHT>0.00000000</TUN_WEIGHT>
+   <TUN_SPECIFIC_HEAT>0.00000000</TUN_SPECIFIC_HEAT>
+   <EQUIP_ADJUST>FALSE</EQUIP_ADJUST>
+  </MASH>
+  <INSTRUCTIONS/>
+  <BREWNOTES/>
+  <ASST_BREWER>Brewtarget: free beer software</ASST_BREWER>
+  <EQUIPMENT>
+   <NAME>32L</NAME>
+   <VERSION>1</VERSION>
+   <BOIL_SIZE>16.00000000</BOIL_SIZE>
+   <BATCH_SIZE>13.00000000</BATCH_SIZE>
+   <TUN_VOLUME>32.00000000</TUN_VOLUME>
+   <TUN_WEIGHT>0.00000000</TUN_WEIGHT>
+   <TUN_SPECIFIC_HEAT>0.00000000</TUN_SPECIFIC_HEAT>
+   <TOP_UP_WATER>0.00000000</TOP_UP_WATER>
+   <TRUB_CHILLER_LOSS>0.00000000</TRUB_CHILLER_LOSS>
+   <EVAP_RATE>12.30769231</EVAP_RATE>
+   <REAL_EVAP_RATE>1.60000000</REAL_EVAP_RATE>
+   <BOIL_TIME>60.00000000</BOIL_TIME>
+   <CALC_BOIL_VOLUME>FALSE</CALC_BOIL_VOLUME>
+   <LAUTER_DEADSPACE>0.00000000</LAUTER_DEADSPACE>
+   <TOP_UP_KETTLE>0.00000000</TOP_UP_KETTLE>
+   <HOP_UTILIZATION>100.00000000</HOP_UTILIZATION>
+   <NOTES></NOTES>
+   <ABSORPTION>1.08500000</ABSORPTION>
+   <BOILING_POINT>100.00000000</BOILING_POINT>
+  </EQUIPMENT>
+  <NOTES></NOTES>
+  <TASTE_NOTES></TASTE_NOTES>
+  <TASTE_RATING>30.00000000</TASTE_RATING>
+  <OG>1.06360088</OG>
+  <FG>1.01590022</FG>
+  <FERMENTATION_STAGES>2</FERMENTATION_STAGES>
+  <PRIMARY_AGE>4.00000000</PRIMARY_AGE>
+  <PRIMARY_TEMP>19.44444440</PRIMARY_TEMP>
+  <SECONDARY_AGE>10.00000000</SECONDARY_AGE>
+  <SECONDARY_TEMP>19.44444440</SECONDARY_TEMP>
+  <TERTIARY_AGE>7.00000000</TERTIARY_AGE>
+  <TERTIARY_TEMP>20.00000000</TERTIARY_TEMP>
+  <AGE>30.00000000</AGE>
+  <AGE_TEMP>18.33333330</AGE_TEMP>
+  <DATE></DATE>
+  <CARBONATION>2.30000000</CARBONATION>
+  <FORCED_CARBONATION>FALSE</FORCED_CARBONATION>
+  <PRIMING_SUGAR_NAME>Forced Carbonation</PRIMING_SUGAR_NAME>
+  <CARBONATION_TEMP>7.22222220</CARBONATION_TEMP>
+  <PRIMING_SUGAR_EQUIV>1.00000000</PRIMING_SUGAR_EQUIV>
+  <KEG_PRIMING_FACTOR>0.50000000</KEG_PRIMING_FACTOR>
+ </RECIPE>
 </RECIPES>

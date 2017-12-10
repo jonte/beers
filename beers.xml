@@ -344,7 +344,7 @@ The final volume in the primary is -970.000 mL.</DIRECTIONS>
    <INGREDIENTS>Generally ales, although some dark strong lagers exist. Spices are required, and often include those evocative of the Christmas season (e.g., allspice, nutmeg, cinnamon, cloves, ginger) but any combination is possible and creativity is encouraged. Fruit peel (e.g., oranges, lemon) may be used, as may subtle additions of other fruits. May use a wide range of crystal-type malts, particularly those that add dark fruit or caramel flavors. Flavorful adjuncts are often used (e.g., molasses, treacle, invert sugar, brown sugar, honey, maple syrup, etc.).</INGREDIENTS>
    <EXAMPLES>Anchor Our Special Ale, Harpoon Winter Warmer, Weyerbacher Winter Ale, Nils Oscar Julöl, Goose Island Christmas Ale, North Coast Wintertime Ale, Great Lakes Christmas Ale, Lakefront Holiday Spice Lager Beer, Samuel Adams Winter Lager, Troegs The Mad Elf, Jamtlands Julöl</EXAMPLES>
   </STYLE>
-  <BREWER></BREWER>
+  <BREWER>Jonatan</BREWER>
   <BATCH_SIZE>10.00000000</BATCH_SIZE>
   <BOIL_SIZE>11.60000000</BOIL_SIZE>
   <BOIL_TIME>60.00000000</BOIL_TIME>
@@ -607,23 +607,28 @@ Fermentation:
 
 Gravity measurements:
 OG: 1.53
-After 3 days: 1.12</NOTES>
-  <TASTE_NOTES>Tasting from damejeanne at SG 1.12:
-Pretty hoppy. Hoppier than expected. Smells chrismasy. Taste is good.</TASTE_NOTES>
-  <TASTE_RATING>0.00000000</TASTE_RATING>
+After 3 days: 1.12
+
+Fermented really, really quickly.</NOTES>
+  <TASTE_NOTES>Dec 10 2017:
+Tasting from damejeanne at SG 1.12:
+Pretty hoppy. Hoppier than expected. Smells chrismasy. Taste is good.
+
+FG: 1.02 (expected 1.08)</TASTE_NOTES>
+  <TASTE_RATING>6.00000000</TASTE_RATING>
   <OG>1.05319003</OG>
   <FG>1.00797850</FG>
   <FERMENTATION_STAGES>1</FERMENTATION_STAGES>
-  <PRIMARY_AGE>0.00000000</PRIMARY_AGE>
-  <PRIMARY_TEMP>20.00000000</PRIMARY_TEMP>
-  <SECONDARY_AGE>0.00000000</SECONDARY_AGE>
-  <SECONDARY_TEMP>20.00000000</SECONDARY_TEMP>
+  <PRIMARY_AGE>2.00000000</PRIMARY_AGE>
+  <PRIMARY_TEMP>19.00000000</PRIMARY_TEMP>
+  <SECONDARY_AGE>0.06666667</SECONDARY_AGE>
+  <SECONDARY_TEMP>24.00000000</SECONDARY_TEMP>
   <TERTIARY_AGE>0.00000000</TERTIARY_AGE>
   <TERTIARY_TEMP>20.00000000</TERTIARY_TEMP>
-  <AGE>0.00000000</AGE>
-  <AGE_TEMP>20.00000000</AGE_TEMP>
-  <DATE></DATE>
-  <CARBONATION>0.00000000</CARBONATION>
+  <AGE>0.03333333</AGE>
+  <AGE_TEMP>5.00000000</AGE_TEMP>
+  <DATE>2017-12-03</DATE>
+  <CARBONATION>2.50000000</CARBONATION>
   <FORCED_CARBONATION>FALSE</FORCED_CARBONATION>
   <PRIMING_SUGAR_NAME></PRIMING_SUGAR_NAME>
   <CARBONATION_TEMP>20.00000000</CARBONATION_TEMP>

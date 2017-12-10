@@ -2905,27 +2905,6 @@ Storage: Good (25% AA after 6 months at 20 C)&#xd;
     <MYRCENE>0.00000000</MYRCENE>
    </HOP>
    <HOP>
-    <NAME>Nelson Sauvin</NAME>
-    <VERSION>1</VERSION>
-    <ALPHA>12.00000000</ALPHA>
-    <AMOUNT>0.04000000</AMOUNT>
-    <USE>Boil</USE>
-    <TIME>30.00000000</TIME>
-    <NOTES>Triploid variety bred from "Smoothcone" released in 2000.  Oil profile said to taste like "fresh crushed gooseberries" similar to Sauvignon Blanc, giving it its name.  Very fruity, citrusy - use in moderation.  &#xd;
-Used for: Pale ale, Super Premiums.  &#xd;
-Substitutes: None</NOTES>
-    <TYPE>Bittering</TYPE>
-    <FORM>Pellet</FORM>
-    <BETA>7.00000000</BETA>
-    <HSI>20.00000000</HSI>
-    <ORIGIN>New Zealand</ORIGIN>
-    <SUBSTITUTES></SUBSTITUTES>
-    <HUMULENE>0.00000000</HUMULENE>
-    <CARYOPHYLLENE>0.00000000</CARYOPHYLLENE>
-    <COHUMULONE>0.00000000</COHUMULONE>
-    <MYRCENE>0.00000000</MYRCENE>
-   </HOP>
-   <HOP>
     <NAME>Citra</NAME>
     <VERSION>1</VERSION>
     <ALPHA>12.00000000</ALPHA>
@@ -2971,20 +2950,37 @@ Storage: Good (25% AA after 6 months at 20 C)&#xd;
     <MYRCENE>0.00000000</MYRCENE>
    </HOP>
    <HOP>
-    <NAME>Nelson Sauvin</NAME>
+    <NAME>Eldorado</NAME>
     <VERSION>1</VERSION>
-    <ALPHA>12.00000000</ALPHA>
+    <ALPHA>18.00000000</ALPHA>
+    <AMOUNT>0.04000000</AMOUNT>
+    <USE>Boil</USE>
+    <TIME>30.00000000</TIME>
+    <NOTES></NOTES>
+    <TYPE>Both</TYPE>
+    <FORM>Pellet</FORM>
+    <BETA>0.00000000</BETA>
+    <HSI>0.00000000</HSI>
+    <ORIGIN></ORIGIN>
+    <SUBSTITUTES></SUBSTITUTES>
+    <HUMULENE>0.00000000</HUMULENE>
+    <CARYOPHYLLENE>0.00000000</CARYOPHYLLENE>
+    <COHUMULONE>0.00000000</COHUMULONE>
+    <MYRCENE>0.00000000</MYRCENE>
+   </HOP>
+   <HOP>
+    <NAME>Eldorado</NAME>
+    <VERSION>1</VERSION>
+    <ALPHA>18.00000000</ALPHA>
     <AMOUNT>0.06000000</AMOUNT>
     <USE>Dry Hop</USE>
     <TIME>4320.00000000</TIME>
-    <NOTES>Triploid variety bred from "Smoothcone" released in 2000.  Oil profile said to taste like "fresh crushed gooseberries" similar to Sauvignon Blanc, giving it its name.  Very fruity, citrusy - use in moderation.  &#xd;
-Used for: Pale ale, Super Premiums.  &#xd;
-Substitutes: None</NOTES>
-    <TYPE>Bittering</TYPE>
+    <NOTES></NOTES>
+    <TYPE>Both</TYPE>
     <FORM>Pellet</FORM>
-    <BETA>7.00000000</BETA>
-    <HSI>20.00000000</HSI>
-    <ORIGIN>New Zealand</ORIGIN>
+    <BETA>0.00000000</BETA>
+    <HSI>0.00000000</HSI>
+    <ORIGIN></ORIGIN>
     <SUBSTITUTES></SUBSTITUTES>
     <HUMULENE>0.00000000</HUMULENE>
     <CARYOPHYLLENE>0.00000000</CARYOPHYLLENE>

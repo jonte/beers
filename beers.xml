@@ -614,7 +614,10 @@ Fermented really, really quickly.</NOTES>
 Tasting from damejeanne at SG 1.12:
 Pretty hoppy. Hoppier than expected. Smells chrismasy. Taste is good.
 
-FG: 1.02 (expected 1.08)</TASTE_NOTES>
+FG: 1.02 (expected 1.08)
+
+Dec 24 2017:
+Mash at higher demp next year!</TASTE_NOTES>
   <TASTE_RATING>6.00000000</TASTE_RATING>
   <OG>1.05319003</OG>
   <FG>1.00797850</FG>
@@ -2057,6 +2060,389 @@ Almost like Stigbergets westcoast IPA!</TASTE_NOTES>
   <KEG_PRIMING_FACTOR>1.00000000</KEG_PRIMING_FACTOR>
  </RECIPE>
  <RECIPE>
+  <NAME>Frödings IPA 20L</NAME>
+  <VERSION>1</VERSION>
+  <TYPE>All Grain</TYPE>
+  <STYLE>
+   <NAME>American IPA</NAME>
+   <VERSION>1</VERSION>
+   <CATEGORY>India Pale Ale</CATEGORY>
+   <CATEGORY_NUMBER>14</CATEGORY_NUMBER>
+   <STYLE_LETTER>B</STYLE_LETTER>
+   <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+   <TYPE>Ale</TYPE>
+   <OG_MIN>1.05600000</OG_MIN>
+   <OG_MAX>1.07500000</OG_MAX>
+   <FG_MIN>1.01000000</FG_MIN>
+   <FG_MAX>1.01800000</FG_MAX>
+   <IBU_MIN>40.00000000</IBU_MIN>
+   <IBU_MAX>70.00000000</IBU_MAX>
+   <COLOR_MIN>6.00000000</COLOR_MIN>
+   <COLOR_MAX>15.00000000</COLOR_MAX>
+   <ABV_MIN>5.50000000</ABV_MIN>
+   <ABV_MAX>7.50000000</ABV_MAX>
+   <CARB_MIN>0.00000000</CARB_MIN>
+   <CARB_MAX>0.00000000</CARB_MAX>
+   <NOTES></NOTES>
+   <PROFILE>A prominent to intense hop aroma with a citrusy, floral, perfume-like, resinous, piney, and/or fruity character derived from American hops. Many versions are dry hopped and can have an additional grassy aroma, although this is not required. Some clean malty sweetness may be found in the background, but should be at a lower level than in English examples. Fruitiness, either from esters or hops, may also be detected in some versions, although a neutral fermentation character is also acceptable. Some alcohol may be noted.Color ranges from medium gold to medium reddish copper; some versions can have an orange-ish tint. Should be clear, although unfiltered dry-hopped versions may be a bit hazy. Good head stand with white to off-white color should persist.Hop flavor is medium to high, and should reflect an American hop character with citrusy, floral, resinous, piney or fruity aspects. Medium-high to very high hop bitterness, although the malt backbone will support the strong hop character and provide the best balance. Malt flavor should be low to medium, and is generally clean and malty sweet although some caramel or toasty flavors are acceptable at low levels. No diacetyl. Low fruitiness is acceptable but not required. The bitterness may linger into the aftertaste but should not be harsh. Medium-dry to dry finish. Some clean alcohol flavor can be noted in stronger versions. Oak is inappropriate in this style. May be slightly sulfury, but most examples do not exhibit this character.Smooth, medium-light to medium-bodied mouthfeel without hop-derived astringency, although moderate to medium-high carbonation can combine to render an overall dry sensation in the presence of malt sweetness. Some smooth alcohol warming can and should be sensed in stronger (but not all) versions. Body is generally less than in English counterparts.A decidedly hoppy and bitter, moderately strong American pale ale. An American version of the historical English style, brewed using American ingredients and attitude.</PROFILE>
+   <INGREDIENTS>Pale ale malt (well-modified and suitable for single-temperature infusion mashing,'); American hops; American yeast that can give a clean or slightly fruity profile. Generally all-malt, but mashed at lower temperatures for high attenuation. Water character varies from soft to moderately sulfate. Versions with a noticeable Rye character ("RyePA") should be entered in the Specialty category.</INGREDIENTS>
+   <EXAMPLES>Bell's Two-Hearted Ale, AleSmith IPA, Russian River Blind Pig IPA, Stone IPA, Three Floyds Alpha King, Great Divide Titan IPA, Bear Republic Racer 5 IPA, Victory Hop Devil, Sierra Nevada Celebration Ale, Anderson Valley Hop Ottin', Dogfish Head 60 Minute IPA, Founder's Centennial IPA, Anchor Liberty Ale, Harpoon IPA, Avery IPA</EXAMPLES>
+  </STYLE>
+  <BREWER></BREWER>
+  <BATCH_SIZE>20.00000000</BATCH_SIZE>
+  <BOIL_SIZE>21.00000000</BOIL_SIZE>
+  <BOIL_TIME>60.00000000</BOIL_TIME>
+  <EFFICIENCY>60.00000000</EFFICIENCY>
+  <HOPS>
+   <HOP>
+    <NAME>Challenger</NAME>
+    <VERSION>1</VERSION>
+    <ALPHA>7.00000000</ALPHA>
+    <AMOUNT>0.08000000</AMOUNT>
+    <USE>Boil</USE>
+    <TIME>5.00000000</TIME>
+    <NOTES>Mild to Moderate but quite spicy. Typically used for aroma.</NOTES>
+    <TYPE>Both</TYPE>
+    <FORM>Pellet</FORM>
+    <BETA>4.25000000</BETA>
+    <HSI>77.50000000</HSI>
+    <ORIGIN>England</ORIGIN>
+    <SUBSTITUTES>Northern Brewer, Perle</SUBSTITUTES>
+    <HUMULENE>28.50000000</HUMULENE>
+    <CARYOPHYLLENE>9.00000000</CARYOPHYLLENE>
+    <COHUMULONE>22.50000000</COHUMULONE>
+    <MYRCENE>36.00000000</MYRCENE>
+   </HOP>
+   <HOP>
+    <NAME>Citra</NAME>
+    <VERSION>1</VERSION>
+    <ALPHA>12.00000000</ALPHA>
+    <AMOUNT>0.08000000</AMOUNT>
+    <USE>Boil</USE>
+    <TIME>60.00000000</TIME>
+    <NOTES>Released in 2007 as a dual-purpose variety, this hop does well as a bittering hop due to low cohumulone content, and high alpha acids. When used for aroma, it lends tropical fruit and citrus characteristics.</NOTES>
+    <TYPE>Both</TYPE>
+    <FORM>Pellet</FORM>
+    <BETA>4.00000000</BETA>
+    <HSI>0.00000000</HSI>
+    <ORIGIN>US</ORIGIN>
+    <SUBSTITUTES>Probably none, but a citrusy hop can make an approximation.</SUBSTITUTES>
+    <HUMULENE>12.00000000</HUMULENE>
+    <CARYOPHYLLENE>7.00000000</CARYOPHYLLENE>
+    <COHUMULONE>23.00000000</COHUMULONE>
+    <MYRCENE>62.50000000</MYRCENE>
+   </HOP>
+   <HOP>
+    <NAME>Citra</NAME>
+    <VERSION>1</VERSION>
+    <ALPHA>12.00000000</ALPHA>
+    <AMOUNT>0.02000000</AMOUNT>
+    <USE>Dry Hop</USE>
+    <TIME>5760.00000000</TIME>
+    <NOTES>Released in 2007 as a dual-purpose variety, this hop does well as a bittering hop due to low cohumulone content, and high alpha acids. When used for aroma, it lends tropical fruit and citrus characteristics.</NOTES>
+    <TYPE>Both</TYPE>
+    <FORM>Pellet</FORM>
+    <BETA>4.00000000</BETA>
+    <HSI>0.00000000</HSI>
+    <ORIGIN>US</ORIGIN>
+    <SUBSTITUTES>Probably none, but a citrusy hop can make an approximation.</SUBSTITUTES>
+    <HUMULENE>12.00000000</HUMULENE>
+    <CARYOPHYLLENE>7.00000000</CARYOPHYLLENE>
+    <COHUMULONE>23.00000000</COHUMULONE>
+    <MYRCENE>62.50000000</MYRCENE>
+   </HOP>
+   <HOP>
+    <NAME>Challenger</NAME>
+    <VERSION>1</VERSION>
+    <ALPHA>7.00000000</ALPHA>
+    <AMOUNT>0.02000000</AMOUNT>
+    <USE>Dry Hop</USE>
+    <TIME>5760.00000000</TIME>
+    <NOTES>Mild to Moderate but quite spicy. Typically used for aroma.</NOTES>
+    <TYPE>Both</TYPE>
+    <FORM>Pellet</FORM>
+    <BETA>4.25000000</BETA>
+    <HSI>77.50000000</HSI>
+    <ORIGIN>England</ORIGIN>
+    <SUBSTITUTES>Northern Brewer, Perle</SUBSTITUTES>
+    <HUMULENE>28.50000000</HUMULENE>
+    <CARYOPHYLLENE>9.00000000</CARYOPHYLLENE>
+    <COHUMULONE>22.50000000</COHUMULONE>
+    <MYRCENE>36.00000000</MYRCENE>
+   </HOP>
+  </HOPS>
+  <FERMENTABLES>
+   <FERMENTABLE>
+    <NAME>Simpsons - Maris Otter</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>Grain</TYPE>
+    <AMOUNT>5.00000000</AMOUNT>
+    <YIELD>81.00000000</YIELD>
+    <COLOR>3.00000000</COLOR>
+    <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+    <ORIGIN>UK</ORIGIN>
+    <SUPPLIER></SUPPLIER>
+    <NOTES></NOTES>
+    <COARSE_FINE_DIFF>1.00000000</COARSE_FINE_DIFF>
+    <MOISTURE>3.00000000</MOISTURE>
+    <DIASTATIC_POWER>120.00000000</DIASTATIC_POWER>
+    <PROTEIN>10.00000000</PROTEIN>
+    <MAX_IN_BATCH>100.00000000</MAX_IN_BATCH>
+    <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+    <IS_MASHED>TRUE</IS_MASHED>
+    <IBU_GAL_PER_LB>0.00000000</IBU_GAL_PER_LB>
+   </FERMENTABLE>
+   <FERMENTABLE>
+    <NAME>Munich Malt - 10L</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>Grain</TYPE>
+    <AMOUNT>0.20000000</AMOUNT>
+    <YIELD>77.00000000</YIELD>
+    <COLOR>10.00000000</COLOR>
+    <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+    <ORIGIN>US</ORIGIN>
+    <SUPPLIER></SUPPLIER>
+    <NOTES>Although kilned, Munich still retains sufficient enzymes for 100% of the grain bill, or it can be used at a percentage of the total malt content for its full, malty flavor and aroma.</NOTES>
+    <COARSE_FINE_DIFF>0.00000000</COARSE_FINE_DIFF>
+    <MOISTURE>0.00000000</MOISTURE>
+    <DIASTATIC_POWER>0.00000000</DIASTATIC_POWER>
+    <PROTEIN>0.00000000</PROTEIN>
+    <MAX_IN_BATCH>100.00000000</MAX_IN_BATCH>
+    <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+    <IS_MASHED>TRUE</IS_MASHED>
+    <IBU_GAL_PER_LB>0.00000000</IBU_GAL_PER_LB>
+   </FERMENTABLE>
+   <FERMENTABLE>
+    <NAME>Wheat Malt, Ger</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>Grain</TYPE>
+    <AMOUNT>0.40000000</AMOUNT>
+    <YIELD>84.00000000</YIELD>
+    <COLOR>2.00000000</COLOR>
+    <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+    <ORIGIN>Germany</ORIGIN>
+    <SUPPLIER></SUPPLIER>
+    <NOTES>Use in wheat beers.</NOTES>
+    <COARSE_FINE_DIFF>0.00000000</COARSE_FINE_DIFF>
+    <MOISTURE>0.00000000</MOISTURE>
+    <DIASTATIC_POWER>0.00000000</DIASTATIC_POWER>
+    <PROTEIN>0.00000000</PROTEIN>
+    <MAX_IN_BATCH>60.00000000</MAX_IN_BATCH>
+    <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+    <IS_MASHED>TRUE</IS_MASHED>
+    <IBU_GAL_PER_LB>0.00000000</IBU_GAL_PER_LB>
+   </FERMENTABLE>
+   <FERMENTABLE>
+    <NAME>Caramel/Crystal Malt - 40L</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>Grain</TYPE>
+    <AMOUNT>0.10000000</AMOUNT>
+    <YIELD>74.00000000</YIELD>
+    <COLOR>40.00000000</COLOR>
+    <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+    <ORIGIN>US</ORIGIN>
+    <SUPPLIER></SUPPLIER>
+    <NOTES>This Pale Crystal malt will lend a balance of medium caramel color, flavor, and body.</NOTES>
+    <COARSE_FINE_DIFF>0.00000000</COARSE_FINE_DIFF>
+    <MOISTURE>0.00000000</MOISTURE>
+    <DIASTATIC_POWER>0.00000000</DIASTATIC_POWER>
+    <PROTEIN>0.00000000</PROTEIN>
+    <MAX_IN_BATCH>20.00000000</MAX_IN_BATCH>
+    <RECOMMEND_MASH>FALSE</RECOMMEND_MASH>
+    <IS_MASHED>TRUE</IS_MASHED>
+    <IBU_GAL_PER_LB>0.00000000</IBU_GAL_PER_LB>
+   </FERMENTABLE>
+  </FERMENTABLES>
+  <MISCS/>
+  <YEASTS>
+   <YEAST>
+    <NAME>Safale S-05</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>Ale</TYPE>
+    <FORM>Dry</FORM>
+    <AMOUNT>0.01100000</AMOUNT>
+    <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+    <LABORATORY>Safale</LABORATORY>
+    <PRODUCT_ID></PRODUCT_ID>
+    <MIN_TEMPERATURE>15.00000000</MIN_TEMPERATURE>
+    <MAX_TEMPERATURE>24.00000000</MAX_TEMPERATURE>
+    <FLOCCULATION>Low</FLOCCULATION>
+    <ATTENUATION>75.00000000</ATTENUATION>
+    <NOTES></NOTES>
+    <BEST_FOR></BEST_FOR>
+    <TIMES_CULTURED>0</TIMES_CULTURED>
+    <MAX_REUSE>0</MAX_REUSE>
+    <ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
+   </YEAST>
+  </YEASTS>
+  <WATERS/>
+  <MASH>
+   <NAME>No sparge</NAME>
+   <VERSION>1</VERSION>
+   <GRAIN_TEMP>20.00000000</GRAIN_TEMP>
+   <MASH_STEPS>
+    <MASH_STEP>
+     <NAME>No sparge</NAME>
+     <VERSION>1</VERSION>
+     <TYPE>Infusion</TYPE>
+     <INFUSE_AMOUNT>27.00000000</INFUSE_AMOUNT>
+     <STEP_TEMP>67.00000000</STEP_TEMP>
+     <STEP_TIME>60.00000000</STEP_TIME>
+     <RAMP_TIME>0.00000000</RAMP_TIME>
+     <END_TEMP>67.00000000</END_TEMP>
+     <INFUSE_TEMP>67.00000000</INFUSE_TEMP>
+     <DECOCTION_AMOUNT>0.00000000</DECOCTION_AMOUNT>
+    </MASH_STEP>
+   </MASH_STEPS>
+   <NOTES></NOTES>
+   <TUN_TEMP>20.00000000</TUN_TEMP>
+   <SPARGE_TEMP>74.00000000</SPARGE_TEMP>
+   <PH>7.00000000</PH>
+   <TUN_WEIGHT>0.00000000</TUN_WEIGHT>
+   <TUN_SPECIFIC_HEAT>0.00000000</TUN_SPECIFIC_HEAT>
+   <EQUIP_ADJUST>TRUE</EQUIP_ADJUST>
+  </MASH>
+  <INSTRUCTIONS>
+   <INSTRUCTION>
+    <NAME>Add grains</NAME>
+    <DIRECTIONS>Add 4.640 kg Simpsons - Maris Otter, 192.000 g Munich Malt - 10L, 360.000 g Wheat Malt, Ger, 90.000 g Caramel/Crystal Malt - 40L to the mash tun.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Heat water</NAME>
+    <DIRECTIONS>Bring 27.000 L water to 67.000 C for upcoming infusions.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Infusion - No sparge</NAME>
+    <DIRECTIONS>Add 27.000 L water at 67.000 C to mash to bring it to 67.000 C. Hold for 1.000 hr.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>60.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Start boil</NAME>
+    <DIRECTIONS>Bring the wort to a boil and hold for 1.000 hr.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>60.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Hop addition</NAME>
+    <DIRECTIONS>Put 80.000 g Citra into boil for 1.000 hr.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>60.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Hop addition</NAME>
+    <DIRECTIONS>Put 80.000 g Challenger into boil for 5.000 min.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>5.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Flameout</NAME>
+    <DIRECTIONS>Stop boiling the wort.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Post boil</NAME>
+    <DIRECTIONS>You should have 19.669 L wort post-boil.
+You anticipate losing 0.000 mL to trub and chiller loss.
+The final volume in the primary is 19.669 L.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Pitch yeast</NAME>
+    <DIRECTIONS>Cool wort and pitch Safale S-05 Ale yeast, to the primary.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Ferment</NAME>
+    <DIRECTIONS>Let ferment until FG is 1.014 sg.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Transfer to secondary</NAME>
+    <DIRECTIONS>Transfer beer to secondary.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+  </INSTRUCTIONS>
+  <BREWNOTES/>
+  <ASST_BREWER>Brewtarget: free beer software</ASST_BREWER>
+  <EQUIPMENT>
+   <NAME>32L</NAME>
+   <VERSION>1</VERSION>
+   <BOIL_SIZE>16.00000000</BOIL_SIZE>
+   <BATCH_SIZE>13.00000000</BATCH_SIZE>
+   <TUN_VOLUME>32.00000000</TUN_VOLUME>
+   <TUN_WEIGHT>0.00000000</TUN_WEIGHT>
+   <TUN_SPECIFIC_HEAT>0.00000000</TUN_SPECIFIC_HEAT>
+   <TOP_UP_WATER>0.00000000</TOP_UP_WATER>
+   <TRUB_CHILLER_LOSS>0.00000000</TRUB_CHILLER_LOSS>
+   <EVAP_RATE>12.30769231</EVAP_RATE>
+   <REAL_EVAP_RATE>1.60000000</REAL_EVAP_RATE>
+   <BOIL_TIME>60.00000000</BOIL_TIME>
+   <CALC_BOIL_VOLUME>FALSE</CALC_BOIL_VOLUME>
+   <LAUTER_DEADSPACE>0.00000000</LAUTER_DEADSPACE>
+   <TOP_UP_KETTLE>0.00000000</TOP_UP_KETTLE>
+   <HOP_UTILIZATION>100.00000000</HOP_UTILIZATION>
+   <NOTES></NOTES>
+   <ABSORPTION>1.08500000</ABSORPTION>
+   <BOILING_POINT>100.00000000</BOILING_POINT>
+  </EQUIPMENT>
+  <NOTES>Attempt #1:
+Hops boiled separately in 1.5L kettle, in water.</NOTES>
+  <TASTE_NOTES>Attempt #1:
+Good bitterness, with citrus notes.
+Almost like Stigbergets westcoast IPA!</TASTE_NOTES>
+  <TASTE_RATING>0.00000000</TASTE_RATING>
+  <OG>1.05189832</OG>
+  <FG>1.01297458</FG>
+  <FERMENTATION_STAGES>1</FERMENTATION_STAGES>
+  <PRIMARY_AGE>0.00000000</PRIMARY_AGE>
+  <PRIMARY_TEMP>20.00000000</PRIMARY_TEMP>
+  <SECONDARY_AGE>0.00000000</SECONDARY_AGE>
+  <SECONDARY_TEMP>20.00000000</SECONDARY_TEMP>
+  <TERTIARY_AGE>0.00000000</TERTIARY_AGE>
+  <TERTIARY_TEMP>20.00000000</TERTIARY_TEMP>
+  <AGE>0.00000000</AGE>
+  <AGE_TEMP>20.00000000</AGE_TEMP>
+  <DATE></DATE>
+  <CARBONATION>0.00000000</CARBONATION>
+  <FORCED_CARBONATION>FALSE</FORCED_CARBONATION>
+  <PRIMING_SUGAR_NAME></PRIMING_SUGAR_NAME>
+  <CARBONATION_TEMP>20.00000000</CARBONATION_TEMP>
+  <PRIMING_SUGAR_EQUIV>1.00000000</PRIMING_SUGAR_EQUIV>
+  <KEG_PRIMING_FACTOR>1.00000000</KEG_PRIMING_FACTOR>
+ </RECIPE>
+ <RECIPE>
   <NAME>Frödings wit</NAME>
   <VERSION>1</VERSION>
   <TYPE>All Grain</TYPE>
@@ -2495,336 +2881,6 @@ The final volume in the primary is -6.186 L.</DIRECTIONS>
   <KEG_PRIMING_FACTOR>1.00000000</KEG_PRIMING_FACTOR>
  </RECIPE>
  <RECIPE>
-  <NAME>Hallonöl</NAME>
-  <VERSION>1</VERSION>
-  <TYPE>All Grain</TYPE>
-  <STYLE>
-   <NAME>Weizen/Weissbier</NAME>
-   <VERSION>1</VERSION>
-   <CATEGORY>German Wheat and Rye Beer</CATEGORY>
-   <CATEGORY_NUMBER>15</CATEGORY_NUMBER>
-   <STYLE_LETTER>A</STYLE_LETTER>
-   <STYLE_GUIDE>BJCP</STYLE_GUIDE>
-   <TYPE>Ale</TYPE>
-   <OG_MIN>1.04400000</OG_MIN>
-   <OG_MAX>1.05200000</OG_MAX>
-   <FG_MIN>1.01000000</FG_MIN>
-   <FG_MAX>1.01400000</FG_MAX>
-   <IBU_MIN>8.00000000</IBU_MIN>
-   <IBU_MAX>15.00000000</IBU_MAX>
-   <COLOR_MIN>2.00000000</COLOR_MIN>
-   <COLOR_MAX>8.00000000</COLOR_MAX>
-   <ABV_MIN>4.30000000</ABV_MIN>
-   <ABV_MAX>5.60000000</ABV_MAX>
-   <CARB_MIN>0.00000000</CARB_MIN>
-   <CARB_MAX>0.00000000</CARB_MAX>
-   <NOTES>These are refreshing, fast-maturing beers that are lightly hopped and show a unique banana-and-clove yeast character. These beers often don't age well and are best enjoyed while young and fresh. The version "mit hefe" is served with yeast sediment stirred in; the krystal version is filtered for excellent clarity. Bottles with yeast are traditionally swirled or gently rolled prior to serving. The character of a krystal weizen is generally fruitier and less phenolic than that of the hefe-weizen.</NOTES>
-   <PROFILE>Moderate to strong phenols (usually clove) and fruity esters (usually banana). The balance and intensity of the phenol and ester components can vary but the best examples are reasonably balanced and fairly prominent. Noble hop character ranges from low to none. A light to moderate wheat aroma (which might be perceived as bready or grainy) may be present but other malt characteristics should not. No diacetyl or DMS. Optional, but acceptable, aromatics can include a light, citrusy tartness, a light to moderate vanilla character, and/or a low bubblegum aroma. None of these optional characteristics should be high or dominant, but often can add to the complexity and balance.Pale straw to very dark gold in color. A very thick, moussy, long-lasting white head is characteristic. The high protein content of wheat impairs clarity in an unfiltered beer, although the level of haze is somewhat variable. A beer "mit hefe" is also cloudy from suspended yeast sediment (which should be roused before drinking). The filtered Krystal version has no yeast and is brilliantly clear.Low to moderately strong banana and clove flavor. The balance and intensity of the phenol and ester components can vary but the best examples are reasonably balanced and fairly prominent. Optionally, a very light to moderate vanilla character and/or low bubblegum notes can accentuate the banana flavor, sweetness and roundness; neither should be dominant if present. The soft, somewhat bready or grainy flavor of wheat is complementary, as is a slightly sweet Pils malt character. Hop flavor is very low to none, and hop bitterness is very low to moderately low. A tart, citrusy character from yeast and high carbonation is often present. Well rounded, flavorful palate with a relatively dry finish. No diacetyl or DMS.Medium-light to medium body; never heavy. Suspended yeast may increase the perception of body. The texture of wheat imparts the sensation of a fluffy, creamy fullness that may progress to a light, spritzy finish aided by high carbonation. Always effervescent.A pale, spicy, fruity, refreshing wheat-based ale. A traditional wheat-based ale originating in Southern Germany that is a specialty for summer consumption, but generally produced year-round.</PROFILE>
-   <INGREDIENTS>By German law, at least 50% of the grist must be malted wheat, although some versions use up to 70%; the remainder is Pilsner malt. A traditional decoction mash gives the appropriate body without cloying sweetness. Weizen ale yeasts produce the typical spicy and fruity character, although extreme fermentation temperatures can affect the balance and produce off-flavors. A small amount of noble hops are used only for bitterness.</INGREDIENTS>
-   <EXAMPLES>Weihenstephaner Hefeweissbier, Schneider Weisse Weizenhell, Paulaner Hefe-Weizen, Hacker-Pschorr Weisse, Plank Bavarian Hefeweizen, Ayinger Bräu Weisse, Ettaler Weissbier Hell, Franziskaner Hefe-Weisse, Andechser Weissbier Hefetrüb, Kapuziner Weissbier, Erdinger Weissbier, Penn Weizen, Barrelhouse Hocking Hills HefeWeizen, Eisenbahn Weizenbier</EXAMPLES>
-  </STYLE>
-  <BREWER></BREWER>
-  <BATCH_SIZE>4.00000000</BATCH_SIZE>
-  <BOIL_SIZE>8.50000000</BOIL_SIZE>
-  <BOIL_TIME>60.00000000</BOIL_TIME>
-  <EFFICIENCY>70.00000000</EFFICIENCY>
-  <HOPS>
-   <HOP>
-    <NAME>Hallertau</NAME>
-    <VERSION>1</VERSION>
-    <ALPHA>1.50000000</ALPHA>
-    <AMOUNT>0.01500000</AMOUNT>
-    <USE>Boil</USE>
-    <TIME>60.00000000</TIME>
-    <NOTES>Mild, pleasant and slightly flowery.</NOTES>
-    <TYPE>Aroma</TYPE>
-    <FORM>Pellet</FORM>
-    <BETA>4.50000000</BETA>
-    <HSI>55.00000000</HSI>
-    <ORIGIN></ORIGIN>
-    <SUBSTITUTES>Mt. Hood, Liberty, Crystal.</SUBSTITUTES>
-    <HUMULENE>55.00000000</HUMULENE>
-    <CARYOPHYLLENE>14.50000000</CARYOPHYLLENE>
-    <COHUMULONE>24.50000000</COHUMULONE>
-    <MYRCENE>16.50000000</MYRCENE>
-   </HOP>
-   <HOP>
-    <NAME>Hallertau</NAME>
-    <VERSION>1</VERSION>
-    <ALPHA>1.50000000</ALPHA>
-    <AMOUNT>0.01500000</AMOUNT>
-    <USE>Boil</USE>
-    <TIME>0.00000000</TIME>
-    <NOTES>Mild, pleasant and slightly flowery.</NOTES>
-    <TYPE>Aroma</TYPE>
-    <FORM>Pellet</FORM>
-    <BETA>4.50000000</BETA>
-    <HSI>55.00000000</HSI>
-    <ORIGIN></ORIGIN>
-    <SUBSTITUTES>Mt. Hood, Liberty, Crystal.</SUBSTITUTES>
-    <HUMULENE>55.00000000</HUMULENE>
-    <CARYOPHYLLENE>14.50000000</CARYOPHYLLENE>
-    <COHUMULONE>24.50000000</COHUMULONE>
-    <MYRCENE>16.50000000</MYRCENE>
-   </HOP>
-  </HOPS>
-  <FERMENTABLES>
-   <FERMENTABLE>
-    <NAME>Weyermann - Pilsner Malt</NAME>
-    <VERSION>1</VERSION>
-    <TYPE>Grain</TYPE>
-    <AMOUNT>0.45000000</AMOUNT>
-    <YIELD>81.00000000</YIELD>
-    <COLOR>2.40000000</COLOR>
-    <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
-    <ORIGIN>Germany</ORIGIN>
-    <SUPPLIER></SUPPLIER>
-    <NOTES></NOTES>
-    <COARSE_FINE_DIFF>1.00000000</COARSE_FINE_DIFF>
-    <MOISTURE>5.00000000</MOISTURE>
-    <DIASTATIC_POWER>120.00000000</DIASTATIC_POWER>
-    <PROTEIN>11.00000000</PROTEIN>
-    <MAX_IN_BATCH>100.00000000</MAX_IN_BATCH>
-    <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
-    <IS_MASHED>TRUE</IS_MASHED>
-    <IBU_GAL_PER_LB>0.00000000</IBU_GAL_PER_LB>
-   </FERMENTABLE>
-   <FERMENTABLE>
-    <NAME>Wheat Malt, Ger</NAME>
-    <VERSION>1</VERSION>
-    <TYPE>Grain</TYPE>
-    <AMOUNT>0.45000000</AMOUNT>
-    <YIELD>84.00000000</YIELD>
-    <COLOR>2.00000000</COLOR>
-    <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
-    <ORIGIN>Germany</ORIGIN>
-    <SUPPLIER></SUPPLIER>
-    <NOTES>Use in wheat beers.</NOTES>
-    <COARSE_FINE_DIFF>0.00000000</COARSE_FINE_DIFF>
-    <MOISTURE>0.00000000</MOISTURE>
-    <DIASTATIC_POWER>0.00000000</DIASTATIC_POWER>
-    <PROTEIN>0.00000000</PROTEIN>
-    <MAX_IN_BATCH>60.00000000</MAX_IN_BATCH>
-    <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
-    <IS_MASHED>TRUE</IS_MASHED>
-    <IBU_GAL_PER_LB>0.00000000</IBU_GAL_PER_LB>
-   </FERMENTABLE>
-  </FERMENTABLES>
-  <MISCS>
-   <MISC>
-    <NAME>Raspberry</NAME>
-    <VERSION>1</VERSION>
-    <TYPE>Flavor</TYPE>
-    <USE>Primary</USE>
-    <TIME>0.00000000</TIME>
-    <AMOUNT>0.20000000</AMOUNT>
-    <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
-    <USE_FOR></USE_FOR>
-    <NOTES></NOTES>
-   </MISC>
-  </MISCS>
-  <YEASTS>
-   <YEAST>
-    <NAME>WLP300 - Hefeweizen Ale Yeast</NAME>
-    <VERSION>1</VERSION>
-    <TYPE>Wheat</TYPE>
-    <FORM>Liquid</FORM>
-    <AMOUNT>0.03500000</AMOUNT>
-    <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
-    <LABORATORY>White Labs</LABORATORY>
-    <PRODUCT_ID>300</PRODUCT_ID>
-    <MIN_TEMPERATURE>20.00000000</MIN_TEMPERATURE>
-    <MAX_TEMPERATURE>22.00000000</MAX_TEMPERATURE>
-    <FLOCCULATION>Low</FLOCCULATION>
-    <ATTENUATION>74.00000000</ATTENUATION>
-    <NOTES>This famous German yeast is a strain used in the production of traditional, authentic wheat beers. It produces the banana and clove nose traditionally associated with German wheat beers and leaves the desired cloudy look of traditional German wheat beers.</NOTES>
-    <BEST_FOR></BEST_FOR>
-    <TIMES_CULTURED>0</TIMES_CULTURED>
-    <MAX_REUSE>10</MAX_REUSE>
-    <ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
-   </YEAST>
-  </YEASTS>
-  <WATERS/>
-  <MASH>
-   <NAME></NAME>
-   <VERSION>1</VERSION>
-   <GRAIN_TEMP>20.00000000</GRAIN_TEMP>
-   <MASH_STEPS>
-    <MASH_STEP>
-     <NAME>Mäskning</NAME>
-     <VERSION>1</VERSION>
-     <TYPE>Infusion</TYPE>
-     <INFUSE_AMOUNT>8.25000000</INFUSE_AMOUNT>
-     <STEP_TEMP>65.00000000</STEP_TEMP>
-     <STEP_TIME>90.00000000</STEP_TIME>
-     <RAMP_TIME>0.00000000</RAMP_TIME>
-     <END_TEMP>65.00000000</END_TEMP>
-     <INFUSE_TEMP>65.00000000</INFUSE_TEMP>
-     <DECOCTION_AMOUNT>0.00000000</DECOCTION_AMOUNT>
-    </MASH_STEP>
-   </MASH_STEPS>
-   <NOTES></NOTES>
-   <TUN_TEMP>20.00000000</TUN_TEMP>
-   <SPARGE_TEMP>74.00000000</SPARGE_TEMP>
-   <PH>7.00000000</PH>
-   <TUN_WEIGHT>0.00000000</TUN_WEIGHT>
-   <TUN_SPECIFIC_HEAT>0.00000000</TUN_SPECIFIC_HEAT>
-   <EQUIP_ADJUST>TRUE</EQUIP_ADJUST>
-  </MASH>
-  <INSTRUCTIONS>
-   <INSTRUCTION>
-    <NAME>Add grains</NAME>
-    <DIRECTIONS>Add to the mash tun.</DIRECTIONS>
-    <HAS_TIMER>FALSE</HAS_TIMER>
-    <TIMER_VALUE>00:00:00</TIMER_VALUE>
-    <COMPLETED>FALSE</COMPLETED>
-    <INTERVAL>0.00000000</INTERVAL>
-   </INSTRUCTION>
-   <INSTRUCTION>
-    <NAME>Heat water</NAME>
-    <DIRECTIONS>Bring 4.700 L water to 67.000 C for upcoming infusions.</DIRECTIONS>
-    <HAS_TIMER>FALSE</HAS_TIMER>
-    <TIMER_VALUE>00:00:00</TIMER_VALUE>
-    <COMPLETED>FALSE</COMPLETED>
-    <INTERVAL>0.00000000</INTERVAL>
-   </INSTRUCTION>
-   <INSTRUCTION>
-    <NAME>Infusion - Mäskning</NAME>
-    <DIRECTIONS>Add 4.700 L water at 67.000 C to mash to bring it to 67.000 C. Hold for 1.000 hr.</DIRECTIONS>
-    <HAS_TIMER>FALSE</HAS_TIMER>
-    <TIMER_VALUE>00:00:00</TIMER_VALUE>
-    <COMPLETED>FALSE</COMPLETED>
-    <INTERVAL>60.00000000</INTERVAL>
-   </INSTRUCTION>
-   <INSTRUCTION>
-    <NAME>Start boil</NAME>
-    <DIRECTIONS>Bring the wort to a boil and hold for 1.000 hr.</DIRECTIONS>
-    <HAS_TIMER>FALSE</HAS_TIMER>
-    <TIMER_VALUE>00:00:00</TIMER_VALUE>
-    <COMPLETED>FALSE</COMPLETED>
-    <INTERVAL>60.00000000</INTERVAL>
-   </INSTRUCTION>
-   <INSTRUCTION>
-    <NAME>Boil/steep fermentables</NAME>
-    <DIRECTIONS>Boil or steep .</DIRECTIONS>
-    <HAS_TIMER>FALSE</HAS_TIMER>
-    <TIMER_VALUE>00:00:00</TIMER_VALUE>
-    <COMPLETED>FALSE</COMPLETED>
-    <INTERVAL>60.00000000</INTERVAL>
-   </INSTRUCTION>
-   <INSTRUCTION>
-    <NAME>Hop addition</NAME>
-    <DIRECTIONS>Put 7.000 g Hallertau into boil for 1.000 hr.</DIRECTIONS>
-    <HAS_TIMER>FALSE</HAS_TIMER>
-    <TIMER_VALUE>00:00:00</TIMER_VALUE>
-    <COMPLETED>FALSE</COMPLETED>
-    <INTERVAL>60.00000000</INTERVAL>
-   </INSTRUCTION>
-   <INSTRUCTION>
-    <NAME>Add Extracts to water</NAME>
-    <DIRECTIONS>Raise water to boil and then remove from heat. Stir in  500.000 g Briess DME - Bavarian Wheat, .</DIRECTIONS>
-    <HAS_TIMER>FALSE</HAS_TIMER>
-    <TIMER_VALUE>00:00:00</TIMER_VALUE>
-    <COMPLETED>FALSE</COMPLETED>
-    <INTERVAL>59.00000000</INTERVAL>
-   </INSTRUCTION>
-   <INSTRUCTION>
-    <NAME>Flameout</NAME>
-    <DIRECTIONS>Stop boiling the wort.</DIRECTIONS>
-    <HAS_TIMER>FALSE</HAS_TIMER>
-    <TIMER_VALUE>00:00:00</TIMER_VALUE>
-    <COMPLETED>FALSE</COMPLETED>
-    <INTERVAL>0.00000000</INTERVAL>
-   </INSTRUCTION>
-   <INSTRUCTION>
-    <NAME>Post boil</NAME>
-    <DIRECTIONS>You should have 3.820 L wort post-boil.
-You anticipate losing 0.000 mL to trub and chiller loss.
-The final volume in the primary is 3.820 L.</DIRECTIONS>
-    <HAS_TIMER>FALSE</HAS_TIMER>
-    <TIMER_VALUE>00:00:00</TIMER_VALUE>
-    <COMPLETED>FALSE</COMPLETED>
-    <INTERVAL>0.00000000</INTERVAL>
-   </INSTRUCTION>
-   <INSTRUCTION>
-    <NAME>Pitch yeast</NAME>
-    <DIRECTIONS>Cool wort and pitch WLP300 - Hefeweizen Ale Yeast Wheat yeast, to the primary.</DIRECTIONS>
-    <HAS_TIMER>FALSE</HAS_TIMER>
-    <TIMER_VALUE>00:00:00</TIMER_VALUE>
-    <COMPLETED>FALSE</COMPLETED>
-    <INTERVAL>0.00000000</INTERVAL>
-   </INSTRUCTION>
-   <INSTRUCTION>
-    <NAME>Misc addition</NAME>
-    <DIRECTIONS>Put 200.000 mL Raspberry into primary for 0.000 s.</DIRECTIONS>
-    <HAS_TIMER>FALSE</HAS_TIMER>
-    <TIMER_VALUE>00:00:00</TIMER_VALUE>
-    <COMPLETED>FALSE</COMPLETED>
-    <INTERVAL>0.00000000</INTERVAL>
-   </INSTRUCTION>
-   <INSTRUCTION>
-    <NAME>Ferment</NAME>
-    <DIRECTIONS>Let ferment until FG is 1.012 sg.</DIRECTIONS>
-    <HAS_TIMER>FALSE</HAS_TIMER>
-    <TIMER_VALUE>00:00:00</TIMER_VALUE>
-    <COMPLETED>FALSE</COMPLETED>
-    <INTERVAL>0.00000000</INTERVAL>
-   </INSTRUCTION>
-   <INSTRUCTION>
-    <NAME>Transfer to secondary</NAME>
-    <DIRECTIONS>Transfer beer to secondary.</DIRECTIONS>
-    <HAS_TIMER>FALSE</HAS_TIMER>
-    <TIMER_VALUE>00:00:00</TIMER_VALUE>
-    <COMPLETED>FALSE</COMPLETED>
-    <INTERVAL>0.00000000</INTERVAL>
-   </INSTRUCTION>
-  </INSTRUCTIONS>
-  <BREWNOTES/>
-  <ASST_BREWER>Brewtarget: free beer software</ASST_BREWER>
-  <EQUIPMENT>
-   <NAME>8L</NAME>
-   <VERSION>1</VERSION>
-   <BOIL_SIZE>10.50000000</BOIL_SIZE>
-   <BATCH_SIZE>7.20000000</BATCH_SIZE>
-   <TUN_VOLUME>35.00000000</TUN_VOLUME>
-   <TUN_WEIGHT>0.00000000</TUN_WEIGHT>
-   <TUN_SPECIFIC_HEAT>0.00000000</TUN_SPECIFIC_HEAT>
-   <TOP_UP_WATER>0.00000000</TOP_UP_WATER>
-   <TRUB_CHILLER_LOSS>0.00000000</TRUB_CHILLER_LOSS>
-   <EVAP_RATE>45.83333333</EVAP_RATE>
-   <REAL_EVAP_RATE>3.30000000</REAL_EVAP_RATE>
-   <BOIL_TIME>60.00000000</BOIL_TIME>
-   <CALC_BOIL_VOLUME>TRUE</CALC_BOIL_VOLUME>
-   <LAUTER_DEADSPACE>0.00000000</LAUTER_DEADSPACE>
-   <TOP_UP_KETTLE>0.00000000</TOP_UP_KETTLE>
-   <HOP_UTILIZATION>90.00000000</HOP_UTILIZATION>
-   <NOTES></NOTES>
-   <ABSORPTION>1.08500000</ABSORPTION>
-   <BOILING_POINT>100.00000000</BOILING_POINT>
-  </EQUIPMENT>
-  <NOTES></NOTES>
-  <TASTE_NOTES></TASTE_NOTES>
-  <TASTE_RATING>0.00000000</TASTE_RATING>
-  <OG>1.04881978</OG>
-  <FG>1.01269314</FG>
-  <FERMENTATION_STAGES>1</FERMENTATION_STAGES>
-  <PRIMARY_AGE>0.00000000</PRIMARY_AGE>
-  <PRIMARY_TEMP>20.00000000</PRIMARY_TEMP>
-  <SECONDARY_AGE>0.00000000</SECONDARY_AGE>
-  <SECONDARY_TEMP>20.00000000</SECONDARY_TEMP>
-  <TERTIARY_AGE>0.00000000</TERTIARY_AGE>
-  <TERTIARY_TEMP>20.00000000</TERTIARY_TEMP>
-  <AGE>0.00000000</AGE>
-  <AGE_TEMP>20.00000000</AGE_TEMP>
-  <DATE></DATE>
-  <CARBONATION>0.00000000</CARBONATION>
-  <FORCED_CARBONATION>FALSE</FORCED_CARBONATION>
-  <PRIMING_SUGAR_NAME></PRIMING_SUGAR_NAME>
-  <CARBONATION_TEMP>20.00000000</CARBONATION_TEMP>
-  <PRIMING_SUGAR_EQUIV>1.00000000</PRIMING_SUGAR_EQUIV>
-  <KEG_PRIMING_FACTOR>1.00000000</KEG_PRIMING_FACTOR>
- </RECIPE>
- <RECIPE>
   <NAME>GBG Beer Week </NAME>
   <VERSION>1</VERSION>
   <TYPE>All Grain</TYPE>
@@ -3169,5 +3225,712 @@ Protein rest recommended when mashing</NOTES>
   <CARBONATION_TEMP>7.22222220</CARBONATION_TEMP>
   <PRIMING_SUGAR_EQUIV>1.00000000</PRIMING_SUGAR_EQUIV>
   <KEG_PRIMING_FACTOR>0.50000000</KEG_PRIMING_FACTOR>
+ </RECIPE>
+ <RECIPE>
+  <NAME>Hallonöl</NAME>
+  <VERSION>1</VERSION>
+  <TYPE>All Grain</TYPE>
+  <STYLE>
+   <NAME>Weizen/Weissbier</NAME>
+   <VERSION>1</VERSION>
+   <CATEGORY>German Wheat and Rye Beer</CATEGORY>
+   <CATEGORY_NUMBER>15</CATEGORY_NUMBER>
+   <STYLE_LETTER>A</STYLE_LETTER>
+   <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+   <TYPE>Ale</TYPE>
+   <OG_MIN>1.04400000</OG_MIN>
+   <OG_MAX>1.05200000</OG_MAX>
+   <FG_MIN>1.01000000</FG_MIN>
+   <FG_MAX>1.01400000</FG_MAX>
+   <IBU_MIN>8.00000000</IBU_MIN>
+   <IBU_MAX>15.00000000</IBU_MAX>
+   <COLOR_MIN>2.00000000</COLOR_MIN>
+   <COLOR_MAX>8.00000000</COLOR_MAX>
+   <ABV_MIN>4.30000000</ABV_MIN>
+   <ABV_MAX>5.60000000</ABV_MAX>
+   <CARB_MIN>0.00000000</CARB_MIN>
+   <CARB_MAX>0.00000000</CARB_MAX>
+   <NOTES>These are refreshing, fast-maturing beers that are lightly hopped and show a unique banana-and-clove yeast character. These beers often don't age well and are best enjoyed while young and fresh. The version "mit hefe" is served with yeast sediment stirred in; the krystal version is filtered for excellent clarity. Bottles with yeast are traditionally swirled or gently rolled prior to serving. The character of a krystal weizen is generally fruitier and less phenolic than that of the hefe-weizen.</NOTES>
+   <PROFILE>Moderate to strong phenols (usually clove) and fruity esters (usually banana). The balance and intensity of the phenol and ester components can vary but the best examples are reasonably balanced and fairly prominent. Noble hop character ranges from low to none. A light to moderate wheat aroma (which might be perceived as bready or grainy) may be present but other malt characteristics should not. No diacetyl or DMS. Optional, but acceptable, aromatics can include a light, citrusy tartness, a light to moderate vanilla character, and/or a low bubblegum aroma. None of these optional characteristics should be high or dominant, but often can add to the complexity and balance.Pale straw to very dark gold in color. A very thick, moussy, long-lasting white head is characteristic. The high protein content of wheat impairs clarity in an unfiltered beer, although the level of haze is somewhat variable. A beer "mit hefe" is also cloudy from suspended yeast sediment (which should be roused before drinking). The filtered Krystal version has no yeast and is brilliantly clear.Low to moderately strong banana and clove flavor. The balance and intensity of the phenol and ester components can vary but the best examples are reasonably balanced and fairly prominent. Optionally, a very light to moderate vanilla character and/or low bubblegum notes can accentuate the banana flavor, sweetness and roundness; neither should be dominant if present. The soft, somewhat bready or grainy flavor of wheat is complementary, as is a slightly sweet Pils malt character. Hop flavor is very low to none, and hop bitterness is very low to moderately low. A tart, citrusy character from yeast and high carbonation is often present. Well rounded, flavorful palate with a relatively dry finish. No diacetyl or DMS.Medium-light to medium body; never heavy. Suspended yeast may increase the perception of body. The texture of wheat imparts the sensation of a fluffy, creamy fullness that may progress to a light, spritzy finish aided by high carbonation. Always effervescent.A pale, spicy, fruity, refreshing wheat-based ale. A traditional wheat-based ale originating in Southern Germany that is a specialty for summer consumption, but generally produced year-round.</PROFILE>
+   <INGREDIENTS>By German law, at least 50% of the grist must be malted wheat, although some versions use up to 70%; the remainder is Pilsner malt. A traditional decoction mash gives the appropriate body without cloying sweetness. Weizen ale yeasts produce the typical spicy and fruity character, although extreme fermentation temperatures can affect the balance and produce off-flavors. A small amount of noble hops are used only for bitterness.</INGREDIENTS>
+   <EXAMPLES>Weihenstephaner Hefeweissbier, Schneider Weisse Weizenhell, Paulaner Hefe-Weizen, Hacker-Pschorr Weisse, Plank Bavarian Hefeweizen, Ayinger Bräu Weisse, Ettaler Weissbier Hell, Franziskaner Hefe-Weisse, Andechser Weissbier Hefetrüb, Kapuziner Weissbier, Erdinger Weissbier, Penn Weizen, Barrelhouse Hocking Hills HefeWeizen, Eisenbahn Weizenbier</EXAMPLES>
+  </STYLE>
+  <BREWER></BREWER>
+  <BATCH_SIZE>4.00000000</BATCH_SIZE>
+  <BOIL_SIZE>8.50000000</BOIL_SIZE>
+  <BOIL_TIME>60.00000000</BOIL_TIME>
+  <EFFICIENCY>70.00000000</EFFICIENCY>
+  <HOPS>
+   <HOP>
+    <NAME>Hallertau</NAME>
+    <VERSION>1</VERSION>
+    <ALPHA>1.50000000</ALPHA>
+    <AMOUNT>0.01500000</AMOUNT>
+    <USE>Boil</USE>
+    <TIME>60.00000000</TIME>
+    <NOTES>Mild, pleasant and slightly flowery.</NOTES>
+    <TYPE>Aroma</TYPE>
+    <FORM>Pellet</FORM>
+    <BETA>4.50000000</BETA>
+    <HSI>55.00000000</HSI>
+    <ORIGIN></ORIGIN>
+    <SUBSTITUTES>Mt. Hood, Liberty, Crystal.</SUBSTITUTES>
+    <HUMULENE>55.00000000</HUMULENE>
+    <CARYOPHYLLENE>14.50000000</CARYOPHYLLENE>
+    <COHUMULONE>24.50000000</COHUMULONE>
+    <MYRCENE>16.50000000</MYRCENE>
+   </HOP>
+   <HOP>
+    <NAME>Hallertau</NAME>
+    <VERSION>1</VERSION>
+    <ALPHA>1.50000000</ALPHA>
+    <AMOUNT>0.01500000</AMOUNT>
+    <USE>Boil</USE>
+    <TIME>0.00000000</TIME>
+    <NOTES>Mild, pleasant and slightly flowery.</NOTES>
+    <TYPE>Aroma</TYPE>
+    <FORM>Pellet</FORM>
+    <BETA>4.50000000</BETA>
+    <HSI>55.00000000</HSI>
+    <ORIGIN></ORIGIN>
+    <SUBSTITUTES>Mt. Hood, Liberty, Crystal.</SUBSTITUTES>
+    <HUMULENE>55.00000000</HUMULENE>
+    <CARYOPHYLLENE>14.50000000</CARYOPHYLLENE>
+    <COHUMULONE>24.50000000</COHUMULONE>
+    <MYRCENE>16.50000000</MYRCENE>
+   </HOP>
+  </HOPS>
+  <FERMENTABLES>
+   <FERMENTABLE>
+    <NAME>Weyermann - Pilsner Malt</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>Grain</TYPE>
+    <AMOUNT>0.45000000</AMOUNT>
+    <YIELD>81.00000000</YIELD>
+    <COLOR>2.40000000</COLOR>
+    <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+    <ORIGIN>Germany</ORIGIN>
+    <SUPPLIER></SUPPLIER>
+    <NOTES></NOTES>
+    <COARSE_FINE_DIFF>1.00000000</COARSE_FINE_DIFF>
+    <MOISTURE>5.00000000</MOISTURE>
+    <DIASTATIC_POWER>120.00000000</DIASTATIC_POWER>
+    <PROTEIN>11.00000000</PROTEIN>
+    <MAX_IN_BATCH>100.00000000</MAX_IN_BATCH>
+    <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+    <IS_MASHED>TRUE</IS_MASHED>
+    <IBU_GAL_PER_LB>0.00000000</IBU_GAL_PER_LB>
+   </FERMENTABLE>
+   <FERMENTABLE>
+    <NAME>Wheat Malt, Ger</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>Grain</TYPE>
+    <AMOUNT>0.45000000</AMOUNT>
+    <YIELD>84.00000000</YIELD>
+    <COLOR>2.00000000</COLOR>
+    <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+    <ORIGIN>Germany</ORIGIN>
+    <SUPPLIER></SUPPLIER>
+    <NOTES>Use in wheat beers.</NOTES>
+    <COARSE_FINE_DIFF>0.00000000</COARSE_FINE_DIFF>
+    <MOISTURE>0.00000000</MOISTURE>
+    <DIASTATIC_POWER>0.00000000</DIASTATIC_POWER>
+    <PROTEIN>0.00000000</PROTEIN>
+    <MAX_IN_BATCH>60.00000000</MAX_IN_BATCH>
+    <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+    <IS_MASHED>TRUE</IS_MASHED>
+    <IBU_GAL_PER_LB>0.00000000</IBU_GAL_PER_LB>
+   </FERMENTABLE>
+  </FERMENTABLES>
+  <MISCS>
+   <MISC>
+    <NAME>Raspberry</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>Flavor</TYPE>
+    <USE>Primary</USE>
+    <TIME>0.00000000</TIME>
+    <AMOUNT>0.20000000</AMOUNT>
+    <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+    <USE_FOR></USE_FOR>
+    <NOTES></NOTES>
+   </MISC>
+  </MISCS>
+  <YEASTS>
+   <YEAST>
+    <NAME>WLP300 - Hefeweizen Ale Yeast</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>Wheat</TYPE>
+    <FORM>Liquid</FORM>
+    <AMOUNT>0.03500000</AMOUNT>
+    <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+    <LABORATORY>White Labs</LABORATORY>
+    <PRODUCT_ID>300</PRODUCT_ID>
+    <MIN_TEMPERATURE>20.00000000</MIN_TEMPERATURE>
+    <MAX_TEMPERATURE>22.00000000</MAX_TEMPERATURE>
+    <FLOCCULATION>Low</FLOCCULATION>
+    <ATTENUATION>74.00000000</ATTENUATION>
+    <NOTES>This famous German yeast is a strain used in the production of traditional, authentic wheat beers. It produces the banana and clove nose traditionally associated with German wheat beers and leaves the desired cloudy look of traditional German wheat beers.</NOTES>
+    <BEST_FOR></BEST_FOR>
+    <TIMES_CULTURED>0</TIMES_CULTURED>
+    <MAX_REUSE>10</MAX_REUSE>
+    <ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
+   </YEAST>
+  </YEASTS>
+  <WATERS/>
+  <MASH>
+   <NAME></NAME>
+   <VERSION>1</VERSION>
+   <GRAIN_TEMP>20.00000000</GRAIN_TEMP>
+   <MASH_STEPS>
+    <MASH_STEP>
+     <NAME>Mäskning</NAME>
+     <VERSION>1</VERSION>
+     <TYPE>Infusion</TYPE>
+     <INFUSE_AMOUNT>8.25000000</INFUSE_AMOUNT>
+     <STEP_TEMP>65.00000000</STEP_TEMP>
+     <STEP_TIME>90.00000000</STEP_TIME>
+     <RAMP_TIME>0.00000000</RAMP_TIME>
+     <END_TEMP>65.00000000</END_TEMP>
+     <INFUSE_TEMP>65.00000000</INFUSE_TEMP>
+     <DECOCTION_AMOUNT>0.00000000</DECOCTION_AMOUNT>
+    </MASH_STEP>
+   </MASH_STEPS>
+   <NOTES></NOTES>
+   <TUN_TEMP>20.00000000</TUN_TEMP>
+   <SPARGE_TEMP>74.00000000</SPARGE_TEMP>
+   <PH>7.00000000</PH>
+   <TUN_WEIGHT>0.00000000</TUN_WEIGHT>
+   <TUN_SPECIFIC_HEAT>0.00000000</TUN_SPECIFIC_HEAT>
+   <EQUIP_ADJUST>TRUE</EQUIP_ADJUST>
+  </MASH>
+  <INSTRUCTIONS>
+   <INSTRUCTION>
+    <NAME>Add grains</NAME>
+    <DIRECTIONS>Add to the mash tun.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Heat water</NAME>
+    <DIRECTIONS>Bring 4.700 L water to 67.000 C for upcoming infusions.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Infusion - Mäskning</NAME>
+    <DIRECTIONS>Add 4.700 L water at 67.000 C to mash to bring it to 67.000 C. Hold for 1.000 hr.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>60.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Start boil</NAME>
+    <DIRECTIONS>Bring the wort to a boil and hold for 1.000 hr.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>60.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Boil/steep fermentables</NAME>
+    <DIRECTIONS>Boil or steep .</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>60.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Hop addition</NAME>
+    <DIRECTIONS>Put 7.000 g Hallertau into boil for 1.000 hr.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>60.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Add Extracts to water</NAME>
+    <DIRECTIONS>Raise water to boil and then remove from heat. Stir in  500.000 g Briess DME - Bavarian Wheat, .</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>59.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Flameout</NAME>
+    <DIRECTIONS>Stop boiling the wort.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Post boil</NAME>
+    <DIRECTIONS>You should have 3.820 L wort post-boil.
+You anticipate losing 0.000 mL to trub and chiller loss.
+The final volume in the primary is 3.820 L.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Pitch yeast</NAME>
+    <DIRECTIONS>Cool wort and pitch WLP300 - Hefeweizen Ale Yeast Wheat yeast, to the primary.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Misc addition</NAME>
+    <DIRECTIONS>Put 200.000 mL Raspberry into primary for 0.000 s.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Ferment</NAME>
+    <DIRECTIONS>Let ferment until FG is 1.012 sg.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Transfer to secondary</NAME>
+    <DIRECTIONS>Transfer beer to secondary.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+  </INSTRUCTIONS>
+  <BREWNOTES/>
+  <ASST_BREWER>Brewtarget: free beer software</ASST_BREWER>
+  <EQUIPMENT>
+   <NAME>8L</NAME>
+   <VERSION>1</VERSION>
+   <BOIL_SIZE>10.50000000</BOIL_SIZE>
+   <BATCH_SIZE>7.20000000</BATCH_SIZE>
+   <TUN_VOLUME>35.00000000</TUN_VOLUME>
+   <TUN_WEIGHT>0.00000000</TUN_WEIGHT>
+   <TUN_SPECIFIC_HEAT>0.00000000</TUN_SPECIFIC_HEAT>
+   <TOP_UP_WATER>0.00000000</TOP_UP_WATER>
+   <TRUB_CHILLER_LOSS>0.00000000</TRUB_CHILLER_LOSS>
+   <EVAP_RATE>45.83333333</EVAP_RATE>
+   <REAL_EVAP_RATE>3.30000000</REAL_EVAP_RATE>
+   <BOIL_TIME>60.00000000</BOIL_TIME>
+   <CALC_BOIL_VOLUME>TRUE</CALC_BOIL_VOLUME>
+   <LAUTER_DEADSPACE>0.00000000</LAUTER_DEADSPACE>
+   <TOP_UP_KETTLE>0.00000000</TOP_UP_KETTLE>
+   <HOP_UTILIZATION>90.00000000</HOP_UTILIZATION>
+   <NOTES></NOTES>
+   <ABSORPTION>1.08500000</ABSORPTION>
+   <BOILING_POINT>100.00000000</BOILING_POINT>
+  </EQUIPMENT>
+  <NOTES></NOTES>
+  <TASTE_NOTES></TASTE_NOTES>
+  <TASTE_RATING>0.00000000</TASTE_RATING>
+  <OG>1.04881978</OG>
+  <FG>1.01269314</FG>
+  <FERMENTATION_STAGES>1</FERMENTATION_STAGES>
+  <PRIMARY_AGE>0.00000000</PRIMARY_AGE>
+  <PRIMARY_TEMP>20.00000000</PRIMARY_TEMP>
+  <SECONDARY_AGE>0.00000000</SECONDARY_AGE>
+  <SECONDARY_TEMP>20.00000000</SECONDARY_TEMP>
+  <TERTIARY_AGE>0.00000000</TERTIARY_AGE>
+  <TERTIARY_TEMP>20.00000000</TERTIARY_TEMP>
+  <AGE>0.00000000</AGE>
+  <AGE_TEMP>20.00000000</AGE_TEMP>
+  <DATE></DATE>
+  <CARBONATION>0.00000000</CARBONATION>
+  <FORCED_CARBONATION>FALSE</FORCED_CARBONATION>
+  <PRIMING_SUGAR_NAME></PRIMING_SUGAR_NAME>
+  <CARBONATION_TEMP>20.00000000</CARBONATION_TEMP>
+  <PRIMING_SUGAR_EQUIV>1.00000000</PRIMING_SUGAR_EQUIV>
+  <KEG_PRIMING_FACTOR>1.00000000</KEG_PRIMING_FACTOR>
+ </RECIPE>
+ <RECIPE>
+  <NAME>Vienna-Citra SMaSH</NAME>
+  <VERSION>1</VERSION>
+  <TYPE>All Grain</TYPE>
+  <STYLE>
+   <NAME>Standard American Lager</NAME>
+   <VERSION>1</VERSION>
+   <CATEGORY>Light Lager</CATEGORY>
+   <CATEGORY_NUMBER>1</CATEGORY_NUMBER>
+   <STYLE_LETTER>B</STYLE_LETTER>
+   <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+   <TYPE>Lager</TYPE>
+   <OG_MIN>1.04000000</OG_MIN>
+   <OG_MAX>1.05000000</OG_MAX>
+   <FG_MIN>1.00400000</FG_MIN>
+   <FG_MAX>1.01000000</FG_MAX>
+   <IBU_MIN>8.00000000</IBU_MIN>
+   <IBU_MAX>15.00000000</IBU_MAX>
+   <COLOR_MIN>2.00000000</COLOR_MIN>
+   <COLOR_MAX>4.00000000</COLOR_MAX>
+   <ABV_MIN>4.20000000</ABV_MIN>
+   <ABV_MAX>5.30000000</ABV_MAX>
+   <CARB_MIN>0.00000000</CARB_MIN>
+   <CARB_MAX>0.00000000</CARB_MAX>
+   <NOTES>Strong flavors are a fault. An international style including the standard mass-market lager from most countries.</NOTES>
+   <PROFILE>Little to no malt aroma, although it can be grainy, sweet or corn-like if present. Hop aroma may range from none to a light, spicy or floral hop presence. Low levels of yeast character (green apples, DMS, or fruitiness) are optional but acceptable. No diacetyl.Very pale straw to medium yellow color. White, frothy head seldom persists. Very clear.Crisp and dry flavor with some low levels of grainy or corn-like sweetness. Hop flavor ranges from none to low levels. Hop bitterness at low to medium-low level. Balance may vary from slightly malty to slightly bitter, but is relatively close to even. High levels of carbonation may provide a slight acidity or dry "sting." No diacetyl. No fruitiness.Light body from use of a high percentage of adjuncts such as rice or corn. Very highly carbonated with slight carbonic bite on the tongue.Very refreshing and thirst quenching. </PROFILE>
+   <INGREDIENTS>Two- or six-row barley with high percentage (up to 40%) of rice or corn as adjuncts.</INGREDIENTS>
+   <EXAMPLES>Pabst Blue Ribbon, Miller High Life, Budweiser, Baltika #3 Classic, Kirin Lager, Grain Belt Premium Lager, Molson Golden, Labatt Blue, Coors Original, Foster's Lager</EXAMPLES>
+  </STYLE>
+  <BREWER></BREWER>
+  <BATCH_SIZE>20.00000000</BATCH_SIZE>
+  <BOIL_SIZE>23.70000000</BOIL_SIZE>
+  <BOIL_TIME>60.00000000</BOIL_TIME>
+  <EFFICIENCY>60.00000000</EFFICIENCY>
+  <HOPS>
+   <HOP>
+    <NAME>Citra</NAME>
+    <VERSION>1</VERSION>
+    <ALPHA>12.00000000</ALPHA>
+    <AMOUNT>0.02000000</AMOUNT>
+    <USE>Boil</USE>
+    <TIME>5.00000000</TIME>
+    <NOTES>Released in 2007 as a dual-purpose variety, this hop does well as a bittering hop due to low cohumulone content, and high alpha acids. When used for aroma, it lends tropical fruit and citrus characteristics.</NOTES>
+    <TYPE>Both</TYPE>
+    <FORM>Pellet</FORM>
+    <BETA>4.00000000</BETA>
+    <HSI>0.00000000</HSI>
+    <ORIGIN>US</ORIGIN>
+    <SUBSTITUTES>Probably none, but a citrusy hop can make an approximation.</SUBSTITUTES>
+    <HUMULENE>12.00000000</HUMULENE>
+    <CARYOPHYLLENE>7.00000000</CARYOPHYLLENE>
+    <COHUMULONE>23.00000000</COHUMULONE>
+    <MYRCENE>62.50000000</MYRCENE>
+   </HOP>
+   <HOP>
+    <NAME>Citra</NAME>
+    <VERSION>1</VERSION>
+    <ALPHA>12.00000000</ALPHA>
+    <AMOUNT>0.01500000</AMOUNT>
+    <USE>Boil</USE>
+    <TIME>60.00000000</TIME>
+    <NOTES>Released in 2007 as a dual-purpose variety, this hop does well as a bittering hop due to low cohumulone content, and high alpha acids. When used for aroma, it lends tropical fruit and citrus characteristics.</NOTES>
+    <TYPE>Both</TYPE>
+    <FORM>Pellet</FORM>
+    <BETA>4.00000000</BETA>
+    <HSI>0.00000000</HSI>
+    <ORIGIN>US</ORIGIN>
+    <SUBSTITUTES>Probably none, but a citrusy hop can make an approximation.</SUBSTITUTES>
+    <HUMULENE>12.00000000</HUMULENE>
+    <CARYOPHYLLENE>7.00000000</CARYOPHYLLENE>
+    <COHUMULONE>23.00000000</COHUMULONE>
+    <MYRCENE>62.50000000</MYRCENE>
+   </HOP>
+   <HOP>
+    <NAME>Citra</NAME>
+    <VERSION>1</VERSION>
+    <ALPHA>12.00000000</ALPHA>
+    <AMOUNT>0.01500000</AMOUNT>
+    <USE>Boil</USE>
+    <TIME>30.00000000</TIME>
+    <NOTES>Released in 2007 as a dual-purpose variety, this hop does well as a bittering hop due to low cohumulone content, and high alpha acids. When used for aroma, it lends tropical fruit and citrus characteristics.</NOTES>
+    <TYPE>Both</TYPE>
+    <FORM>Pellet</FORM>
+    <BETA>4.00000000</BETA>
+    <HSI>0.00000000</HSI>
+    <ORIGIN>US</ORIGIN>
+    <SUBSTITUTES>Probably none, but a citrusy hop can make an approximation.</SUBSTITUTES>
+    <HUMULENE>12.00000000</HUMULENE>
+    <CARYOPHYLLENE>7.00000000</CARYOPHYLLENE>
+    <COHUMULONE>23.00000000</COHUMULONE>
+    <MYRCENE>62.50000000</MYRCENE>
+   </HOP>
+   <HOP>
+    <NAME>Citra</NAME>
+    <VERSION>1</VERSION>
+    <ALPHA>12.00000000</ALPHA>
+    <AMOUNT>0.05000000</AMOUNT>
+    <USE>Dry Hop</USE>
+    <TIME>5760.00000000</TIME>
+    <NOTES>Released in 2007 as a dual-purpose variety, this hop does well as a bittering hop due to low cohumulone content, and high alpha acids. When used for aroma, it lends tropical fruit and citrus characteristics.</NOTES>
+    <TYPE>Both</TYPE>
+    <FORM>Pellet</FORM>
+    <BETA>4.00000000</BETA>
+    <HSI>0.00000000</HSI>
+    <ORIGIN>US</ORIGIN>
+    <SUBSTITUTES>Probably none, but a citrusy hop can make an approximation.</SUBSTITUTES>
+    <HUMULENE>12.00000000</HUMULENE>
+    <CARYOPHYLLENE>7.00000000</CARYOPHYLLENE>
+    <COHUMULONE>23.00000000</COHUMULONE>
+    <MYRCENE>62.50000000</MYRCENE>
+   </HOP>
+  </HOPS>
+  <FERMENTABLES>
+   <FERMENTABLE>
+    <NAME>Briess - Vienna Malt</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>Grain</TYPE>
+    <AMOUNT>5.50000000</AMOUNT>
+    <YIELD>77.50000000</YIELD>
+    <COLOR>3.50000000</COLOR>
+    <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+    <ORIGIN>US</ORIGIN>
+    <SUPPLIER>Briess</SUPPLIER>
+    <NOTES>DP 130. Use as a base malt or high percentage specialty malt.
+Contributes hues learning toward golden/light orange.
+Typically used in Vienna, Oktoberfest, Marzen, Alt and all dark lagers.</NOTES>
+    <COARSE_FINE_DIFF>1.00000000</COARSE_FINE_DIFF>
+    <MOISTURE>3.80000000</MOISTURE>
+    <DIASTATIC_POWER>130.00000000</DIASTATIC_POWER>
+    <PROTEIN>12.00000000</PROTEIN>
+    <MAX_IN_BATCH>90.00000000</MAX_IN_BATCH>
+    <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+    <IS_MASHED>TRUE</IS_MASHED>
+    <IBU_GAL_PER_LB>0.00000000</IBU_GAL_PER_LB>
+   </FERMENTABLE>
+  </FERMENTABLES>
+  <MISCS/>
+  <YEASTS>
+   <YEAST>
+    <NAME>Saflager W-34/70</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>Lager</TYPE>
+    <FORM>Dry</FORM>
+    <AMOUNT>0.01150000</AMOUNT>
+    <AMOUNT_IS_WEIGHT>TRUE</AMOUNT_IS_WEIGHT>
+    <LABORATORY></LABORATORY>
+    <PRODUCT_ID></PRODUCT_ID>
+    <MIN_TEMPERATURE>0.00000000</MIN_TEMPERATURE>
+    <MAX_TEMPERATURE>32.00000000</MAX_TEMPERATURE>
+    <FLOCCULATION>High</FLOCCULATION>
+    <ATTENUATION>80.00000000</ATTENUATION>
+    <NOTES></NOTES>
+    <BEST_FOR></BEST_FOR>
+    <TIMES_CULTURED>0</TIMES_CULTURED>
+    <MAX_REUSE>10</MAX_REUSE>
+    <ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
+   </YEAST>
+   <YEAST>
+    <NAME>Saflager W-34/70</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>Lager</TYPE>
+    <FORM>Dry</FORM>
+    <AMOUNT>0.01150000</AMOUNT>
+    <AMOUNT_IS_WEIGHT>TRUE</AMOUNT_IS_WEIGHT>
+    <LABORATORY></LABORATORY>
+    <PRODUCT_ID></PRODUCT_ID>
+    <MIN_TEMPERATURE>0.00000000</MIN_TEMPERATURE>
+    <MAX_TEMPERATURE>32.00000000</MAX_TEMPERATURE>
+    <FLOCCULATION>High</FLOCCULATION>
+    <ATTENUATION>80.00000000</ATTENUATION>
+    <NOTES></NOTES>
+    <BEST_FOR></BEST_FOR>
+    <TIMES_CULTURED>0</TIMES_CULTURED>
+    <MAX_REUSE>10</MAX_REUSE>
+    <ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
+   </YEAST>
+  </YEASTS>
+  <WATERS/>
+  <MASH>
+   <NAME>No sparge</NAME>
+   <VERSION>1</VERSION>
+   <GRAIN_TEMP>20.00000000</GRAIN_TEMP>
+   <MASH_STEPS>
+    <MASH_STEP>
+     <NAME>Mash</NAME>
+     <VERSION>1</VERSION>
+     <TYPE>Infusion</TYPE>
+     <INFUSE_AMOUNT>20.00000000</INFUSE_AMOUNT>
+     <STEP_TEMP>67.00000000</STEP_TEMP>
+     <STEP_TIME>60.00000000</STEP_TIME>
+     <RAMP_TIME>0.00000000</RAMP_TIME>
+     <END_TEMP>67.00000000</END_TEMP>
+     <INFUSE_TEMP>67.00000000</INFUSE_TEMP>
+     <DECOCTION_AMOUNT>0.00000000</DECOCTION_AMOUNT>
+    </MASH_STEP>
+    <MASH_STEP>
+     <NAME>Lauter</NAME>
+     <VERSION>1</VERSION>
+     <TYPE>Infusion</TYPE>
+     <INFUSE_AMOUNT>10.00000000</INFUSE_AMOUNT>
+     <STEP_TEMP>90.00000000</STEP_TEMP>
+     <STEP_TIME>0.00000000</STEP_TIME>
+     <RAMP_TIME>0.00000000</RAMP_TIME>
+     <END_TEMP>90.00000000</END_TEMP>
+     <INFUSE_TEMP>90.00000000</INFUSE_TEMP>
+     <DECOCTION_AMOUNT>0.00000000</DECOCTION_AMOUNT>
+    </MASH_STEP>
+   </MASH_STEPS>
+   <NOTES></NOTES>
+   <TUN_TEMP>20.00000000</TUN_TEMP>
+   <SPARGE_TEMP>74.00000000</SPARGE_TEMP>
+   <PH>7.00000000</PH>
+   <TUN_WEIGHT>0.00000000</TUN_WEIGHT>
+   <TUN_SPECIFIC_HEAT>0.00000000</TUN_SPECIFIC_HEAT>
+   <EQUIP_ADJUST>TRUE</EQUIP_ADJUST>
+  </MASH>
+  <INSTRUCTIONS>
+   <INSTRUCTION>
+    <NAME>Add grains</NAME>
+    <DIRECTIONS>Add 5.500 kg Briess - Vienna Malt to the mash tun.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Heat water</NAME>
+    <DIRECTIONS>Bring 20.000 L water to 73.267 C, 10.000 L water to 67.000 C for upcoming infusions.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Infusion - Mash</NAME>
+    <DIRECTIONS>Add 20.000 L water at 73.267 C to mash to bring it to 67.000 C. Hold for 1.000 hr.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>60.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Infusion - </NAME>
+    <DIRECTIONS>Add 10.000 L water at 67.000 C to mash to bring it to 67.000 C. Hold for 0.000 s.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Start boil</NAME>
+    <DIRECTIONS>Bring the wort to a boil and hold for 1.000 hr.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>60.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Hop addition</NAME>
+    <DIRECTIONS>Put 15.000 g Citra into boil for 1.000 hr.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>60.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Hop addition</NAME>
+    <DIRECTIONS>Put 15.000 g Citra into boil for 30.000 min.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>30.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Hop addition</NAME>
+    <DIRECTIONS>Put 20.000 g Citra into boil for 5.000 min.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>5.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Flameout</NAME>
+    <DIRECTIONS>Stop boiling the wort.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Post boil</NAME>
+    <DIRECTIONS>You should have 20.832 L wort post-boil.
+You anticipate losing 500.000 mL to trub and chiller loss.
+The final volume in the primary is 20.332 L.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Pitch yeast</NAME>
+    <DIRECTIONS>Cool wort and pitch Saflager W-34/70 Lager yeast, Saflager W-34/70 Lager yeast, to the primary.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Ferment</NAME>
+    <DIRECTIONS>Let ferment until FG is 1.009 sg.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Transfer to secondary</NAME>
+    <DIRECTIONS>Transfer beer to secondary.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>0.00000000</INTERVAL>
+   </INSTRUCTION>
+   <INSTRUCTION>
+    <NAME>Hop addition</NAME>
+    <DIRECTIONS>Put 50.000 g Citra into fermenter for 4.000 day.</DIRECTIONS>
+    <HAS_TIMER>FALSE</HAS_TIMER>
+    <TIMER_VALUE>00:00:00</TIMER_VALUE>
+    <COMPLETED>FALSE</COMPLETED>
+    <INTERVAL>5760.00000000</INTERVAL>
+   </INSTRUCTION>
+  </INSTRUCTIONS>
+  <BREWNOTES/>
+  <ASST_BREWER>Brewtarget: free beer software</ASST_BREWER>
+  <EQUIPMENT>
+   <NAME>32L</NAME>
+   <VERSION>1</VERSION>
+   <BOIL_SIZE>27.00000000</BOIL_SIZE>
+   <BATCH_SIZE>20.00000000</BATCH_SIZE>
+   <TUN_VOLUME>32.00000000</TUN_VOLUME>
+   <TUN_WEIGHT>4.00000000</TUN_WEIGHT>
+   <TUN_SPECIFIC_HEAT>0.18100000</TUN_SPECIFIC_HEAT>
+   <TOP_UP_WATER>0.00000000</TOP_UP_WATER>
+   <TRUB_CHILLER_LOSS>0.50000000</TRUB_CHILLER_LOSS>
+   <EVAP_RATE>16.00000000</EVAP_RATE>
+   <REAL_EVAP_RATE>3.20000000</REAL_EVAP_RATE>
+   <BOIL_TIME>60.00000000</BOIL_TIME>
+   <CALC_BOIL_VOLUME>FALSE</CALC_BOIL_VOLUME>
+   <LAUTER_DEADSPACE>0.00000000</LAUTER_DEADSPACE>
+   <TOP_UP_KETTLE>0.00000000</TOP_UP_KETTLE>
+   <HOP_UTILIZATION>100.00000000</HOP_UTILIZATION>
+   <NOTES></NOTES>
+   <ABSORPTION>1.08500000</ABSORPTION>
+   <BOILING_POINT>100.00000000</BOILING_POINT>
+  </EQUIPMENT>
+  <NOTES></NOTES>
+  <TASTE_NOTES></TASTE_NOTES>
+  <TASTE_RATING>0.00000000</TASTE_RATING>
+  <OG>1.04623655</OG>
+  <FG>1.00924731</FG>
+  <FERMENTATION_STAGES>1</FERMENTATION_STAGES>
+  <PRIMARY_AGE>0.00000000</PRIMARY_AGE>
+  <PRIMARY_TEMP>20.00000000</PRIMARY_TEMP>
+  <SECONDARY_AGE>0.00000000</SECONDARY_AGE>
+  <SECONDARY_TEMP>20.00000000</SECONDARY_TEMP>
+  <TERTIARY_AGE>0.00000000</TERTIARY_AGE>
+  <TERTIARY_TEMP>20.00000000</TERTIARY_TEMP>
+  <AGE>0.00000000</AGE>
+  <AGE_TEMP>20.00000000</AGE_TEMP>
+  <DATE></DATE>
+  <CARBONATION>0.00000000</CARBONATION>
+  <FORCED_CARBONATION>FALSE</FORCED_CARBONATION>
+  <PRIMING_SUGAR_NAME></PRIMING_SUGAR_NAME>
+  <CARBONATION_TEMP>20.00000000</CARBONATION_TEMP>
+  <PRIMING_SUGAR_EQUIV>1.00000000</PRIMING_SUGAR_EQUIV>
+  <KEG_PRIMING_FACTOR>1.00000000</KEG_PRIMING_FACTOR>
  </RECIPE>
 </RECIPES>

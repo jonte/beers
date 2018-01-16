@@ -2088,7 +2088,7 @@ Almost like Stigbergets westcoast IPA!</TASTE_NOTES>
    <INGREDIENTS>Pale ale malt (well-modified and suitable for single-temperature infusion mashing,'); American hops; American yeast that can give a clean or slightly fruity profile. Generally all-malt, but mashed at lower temperatures for high attenuation. Water character varies from soft to moderately sulfate. Versions with a noticeable Rye character ("RyePA") should be entered in the Specialty category.</INGREDIENTS>
    <EXAMPLES>Bell's Two-Hearted Ale, AleSmith IPA, Russian River Blind Pig IPA, Stone IPA, Three Floyds Alpha King, Great Divide Titan IPA, Bear Republic Racer 5 IPA, Victory Hop Devil, Sierra Nevada Celebration Ale, Anderson Valley Hop Ottin', Dogfish Head 60 Minute IPA, Founder's Centennial IPA, Anchor Liberty Ale, Harpoon IPA, Avery IPA</EXAMPLES>
   </STYLE>
-  <BREWER></BREWER>
+  <BREWER>Jonatan Pålsson</BREWER>
   <BATCH_SIZE>20.00000000</BATCH_SIZE>
   <BOIL_SIZE>21.00000000</BOIL_SIZE>
   <BOIL_TIME>60.00000000</BOIL_TIME>
@@ -2418,7 +2418,14 @@ The final volume in the primary is 19.669 L.</DIRECTIONS>
    <BOILING_POINT>100.00000000</BOILING_POINT>
   </EQUIPMENT>
   <NOTES>Attempt #1:
-Hops boiled separately in 1.5L kettle, in water.</NOTES>
+Hops boiled separately in 1.5L kettle, in water.
+
+Attempt #2:
+Hops boiled with wort.
+Add dry hopping (20g Challanger, 20g Citra) @ 4 days.
+Poor conversion = missed OG with 10 points (1.041)
+Good attenuation, FG = 1.010.
+Next time, mash @ 75C for 20 minutes for body, and mash out at 85C, see if this helps with conversion.</NOTES>
   <TASTE_NOTES>Attempt #1:
 Good bitterness, with citrus notes.
 Almost like Stigbergets westcoast IPA!</TASTE_NOTES>
